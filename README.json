@@ -1,534 +1,136 @@
 {
   "items": [
     {
-      "description": "NeonStreamLab offers free themed stream overlay packs for OBS Studio, Streamlabs and StreamElements. Packs include animated starting, BRB and ending screens, webcam frames, chat overlays, alerts and matching panels for Twitch, YouTube, Kick and VTubers.",
-      "items": [],
-      "title": "NeonStreamLab"
-    },
-    {
-      "description": "Fikir Overlay is a free open source Node.js overlay that lets viewers submit ideas via chat commands (, , and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.",
-      "items": [],
-      "title": "Fikir Overlay"
-    },
-    {
-      "description": "All-Chat is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.\nIt renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at https://github.com/caesarakalaeii/all-chat).",
-      "items": [],
-      "title": "All-Chat"
-    },
-    {
-      "description": "BetterTTV is an open source web browser extension that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams, if you dont understand why a lot of people on your chat types is probably that you need this browser extension, you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.",
-      "items": [],
-      "title": "BetterTTV"
-    },
-    {
-      "description": "Boltis is a free Windows app that clips your Twitch stream with one hotkey, saving the last 60 seconds via Twitch's official clip API with no FPS impact. It has a built-in editor to crop clips to vertical, add captions, cuts and GIF/text/image overlays, and export for TikTok and Shorts. You pick the moment live rather than letting AI guess it. Exported clips have no watermark.\n",
-      "items": [],
-      "title": "Boltis"
-    },
-    {
-      "description": "Orion is an open source crossplatform Qt5/QML Twitch Desktop Client app, with all basic features working, emojis and unicode works, copy&paste works, is very lightweight being coded on C++, it wont replace the web but if you only need to watch streams is very comfy.\n",
-      "items": [],
-      "title": "Orion"
-    },
-    {
-      "description": "Webcamoid is an open source Qt5 WebCam app with advanced settings and real time filters and effects, is very lightweight being coded on C, uses few resources, it can add custom effects to your webcam on real time, it can cover faces with PNG images, it can blurry faces, it can add face masks, cover you with fire or glow halo and more fancy toys.\n",
-      "items": [],
-      "title": "Webcamoid"
-    },
-    {
-      "description": "Visual Studio Code is an open source ElectronJS code editor that has stream oriented plugins, that allows your viewers to interact with the editor and the code in it using chat commands and more. It is the only editor that we can find that has stream oriented plugins.\n",
-      "items": [],
-      "title": "Visual Studio Code"
-    },
-    {
-      "description": "RIPCord is an alternative Discord Chat Client. RIPcord is a lot faster and more ligh weight compared to the official one, it is written in C and Qt 5, has Dark theme and also supports Slack chats.",
-      "items": [],
-      "title": "RIPcord"
-    },
-    {
-      "description": "Clementine Music Player is an open source crossplatform Qt5 Music player with very modern and visually attractive UI, that makes it ideal for playing music while occasionally showing the player on stream and dont get everyone bored quickly, it uses few resources and disk space because its C, uses less resources than Spotify, and uses no Network by default.\nIt has a playlist with \"Mood bars\" that represents the mood of the song using colors (sad music, happy music, slow paced music, etc). The playlist also has a column \"Play Count\" so you can see how many times that song has been played on stream. The Playlist has a Rating colum with 5 Stars widgets, so you can rate the songs too. It can show random baby Kitten photos for missing music cover photos. If you dont have Designs for \"Will be back soon\" kind of screens, just leaving the player on shuffle will do, at least for a while.\n",
-      "items": [],
-      "title": "Clementine"
-    },
-    {
-      "description": "Flameshot is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget, very nice if you need to take screenshots for your stream.\n",
-      "items": [],
-      "title": "Flameshot"
-    },
-    {
-      "description": "Cool Retro Term is a is an open source crossplatform Qt5/QML Terminal app, with configurable effects, you can disable any or all effects too, copy&paste works, for the rest is a normal terminal app but looks fancy.\n",
-      "items": [],
-      "title": "Cool Retro Term"
-    },
-    {
-      "description": "SWCursor is a simple C program that allows you to use any PNG image as Mouse cursor, so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.\n",
-      "items": [],
-      "title": "SWCursor"
-    },
-    {
-      "description": "Kitten that chases the mouse pointer desktop toy, very very lightweight and simple. http://www.daidouji.com/oneko https://aur.archlinux.org/packages/oneko",
-      "items": [],
-      "title": "Oneko"
-    },
-    {
-      "description": "Mixer is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. It allows multiple Blender users to work on the same scene at the same time. If you livestream digital Art, you can colab with other streamers or viewers.",
-      "items": [],
-      "title": "Blender"
-    },
-    {
-      "description": "Twire is an open source Android Twitch Client app for Mobile, is a lot more lightweigth than the official app and the features are almost the same, copy&paste works, emoji and unicode works too.",
-      "items": [],
-      "title": "Twire"
-    },
-    {
-      "description": "Emote Resizer is a free, fully client-side tool that resizes one image into every Twitch, Discord, 7TV/BTTV/FFZ, and Slack emote/badge/sticker size. Handles PNG and animated GIF, batch processing, and automatic compression. Nothing is uploaded — everything runs in your browser.",
-      "items": [],
-      "title": "Emote Resizer"
-    },
-    {
-      "description": "RunCue is a browser timer and cue board for webinars and remote productions. The producer controls the clock and private cues while speakers and viewers use separate clean links. Includes a 15-minute trial.",
-      "items": [],
-      "title": "RunCue"
-    },
-    {
-      "description": "Kloot is a live control deck for streamers: one browser source in OBS adds giveaways, polls, lower thirds, alerts and hype effects, all fired manually from your phone. Viewers join giveaways and polls by scanning a QR code or typing a short join code, no chat bot required. Free tier available, paid plans from $15/mo.",
-      "items": [],
-      "title": "Kloot"
-    },
-    {
-      "description": "ReStream re-streams your stream into several platforms for free, you need to register and it will provide you with an URL and secret token to use on OBS.\n",
-      "items": [],
-      "title": "ReStream"
-    },
-    {
-      "description": "Uses AI to analize video and chat in real time and generate a 24/7 continous stream of \"Pog Moments\" on Twitch https://pogged.tv https://pogged.tv/",
-      "items": [],
-      "title": "Pogged TV"
-    },
-    {
-      "description": "ClipMe is an AI clip maker for live streams, it turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking the moments using signals that include chat activity.",
-      "items": [],
-      "title": "ClipMe"
-    },
-    {
-      "description": "klypra is an auto-clipping platform. It watches streams live, detects highlights, clips them (+ subtitles and cutting out silence) and delivers them straight to your phone or web dashboard - currently for free.",
-      "items": [],
-      "title": "klypra"
-    },
-    {
-      "description": "TwitchRoulette Spin the wheel and match with a random streamer with no viewers. Say hi! Make new Friends!.",
-      "items": [],
-      "title": "TwitchRoulette"
-    },
-    {
-      "description": "You can use MultiTwitch to watch any number of Twitch streams at the same time (as long as your computer can handle it). Simply put the streams you want in the url. MultiTwitch will optimize the layout of streams to give you the maximum size on each of the streams, while maintaining aspect ratio. Source https://github.com/bhamrick/multitwitch",
-      "items": [],
-      "title": "MultiTwitch"
-    },
-    {
-      "description": "https://featured.chat is a free web tool for Streamers created by Djwheat, it is a tool to showcase and groom all the chat activity on a channel and feature individual chat messages on screen in the broadcast.\nIt is not an extension: The tool is made up of 2 web pages. One for Management, a webpage in your browser to curate/moderate the messages, one for your broadcast software, a browser source you can plug into OBS.\nDocumentation Manual: https://featured.chat/manual",
-      "items": [],
-      "title": "Featured Chats"
-    },
-    {
-      "description": "https://gather.town free tier up to 25 people, free for guests, everyone can build stuff like a game, chat, video and audio streaming calls, can login with Google, password protection option, Admins can configure the virtual spaces, 2D game look and feel makes it lightweight and fun, lots of maps.",
-      "items": [],
-      "title": "Gather Town"
-    },
-    {
-      "description": "https://bonk.io is a web browser game.",
-      "items": [],
-      "title": "Bonk"
-    },
-    {
-      "description": "https://jackbox.tv is a web browser game designed for Twitch.",
-      "items": [],
-      "title": "Jackbox"
-    },
-    {
-      "description": "BetterStreams is a web-based Twitch automation tool. Connect channel point redeems, subs, raids, and 16 other trigger types to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category, cost scaling, and redemption analytics.",
-      "items": [],
-      "title": "BetterStreams"
-    },
-    {
-      "description": "Waifu Avatar Voice Synth, free online anonymous no-registration https://nanakoe-nina.dena.ai After making a new recording click on \"Good\" button and it will give you a download button.",
-      "items": [],
-      "title": "Voice Avatar"
-    },
-    {
-      "description": "LiberaPay is an open source free web service that allows you to take Donations $, it is like an alternative to Patreon and similar services, when you stream on a fixed constant schedule eventually people will start asking for a way to Donate to you, this is the only service we can find that do not take a big chunk of your donation, with this service 100% of the money goes to you, as far as we know it works internationally.",
-      "items": [],
-      "title": "LiberaPay"
-    },
-    {
-      "description": "OpenSelery is a decentralized framework for a free and transparent salary distribution in free software. It defines a funding distribution to generate a transparent and adaptable cash flow to your digital project and all its contributors. Transparent payout to the developers of your Github project. Distribution of money is done via Bitcoin (currently via Coinbase). Transparent payout with public Logs. This tools remains to be investigated, but is still in development too.",
-      "items": [],
-      "title": "OpenSelery"
-    },
-    {
-      "description": "ShowMeTheWay is an open source web service that shows real time updates on OpenStreetMap, If you dont have Designs for \"Will be back soon\" kind of screens, just leaving this web on screen will do, at least for a while.",
-      "items": [],
-      "title": "ShowMeTheWay"
-    },
-    {
-      "description": "LiveOpenStreetMap is an open source web service that shows real time updates on OpenStreetMap, If you dont have Designs for \"Will be back soon\" kind of screens, just leaving this web on screen will do, at least for a while.",
-      "items": [],
-      "title": "LiveOpenStreetMap"
-    },
-    {
-      "description": "Jamendo is a web service where you can find free music without copyright nor royalty costs, you can download full quality music for free to use on your streams and dont get muted, etc.",
-      "items": [],
-      "title": "Jamendo"
-    },
-    {
-      "description": "LiveCollect is a web-based Twitch tool that turns subscriptions into collectible on-stream pack openings through an OBS browser source. Viewers can collect cards, track rarities, and build their collection over time.",
-      "items": [],
-      "title": "LiveCollect"
-    },
-    {
-      "description": "PeerFast is a Free Open-Source Internet speed check, it runs completely on your PC, it is anonymous, no login nor account required, runs from your browser.",
-      "items": [],
-      "title": "PeerFast"
-    },
-    {
-      "description": "Vizz.fm is a free browser-based music visualizer. Drop the URL into an OBS \"Browser Source\" and it visualizes your stream's audio. Includes customizable scenes and savable presets.",
-      "items": [],
-      "title": "Vizz.fm"
-    },
-    {
-      "description": "VoiceNotebook can save transcriptions of your streams in real time automatically for free, keep transcription logs of past streams!.\nSpeech to text online, Mac, Windows and Linux integration. Direct speech input in Windows, Mac and Linux. Voice typing to clipboard. Free Audio to text transcription (mp3, mp4, Youtube). Android and iOS Apps.",
-      "items": [],
-      "title": "VoiceNotebook"
-    },
-    {
-      "description": "City Guesser is similar to GeoGuessr but free and uses video with audio instead. Free multiplayer private rooms with admin customized settings, Streamer mode, no registration required, people can join by PIN or link, singlePlayer mode, rankings and leaderboard at the end of the game, all game flow has auto timeout, Kilometer or Miles option, 2x video speed, option to jump back 10 seconds on the video. Has a dedicated category on Twitch.",
-      "items": [],
-      "title": "City Guesser"
-    },
-    {
-      "description": "Keyma.sh online multiplayer Typing race game where you can go head to head versus players around the world. Has a dedicated category on Twitch.",
-      "items": [],
-      "title": "Keyma"
-    },
-    {
-      "description": "https://www.twitch.tv/directory/game/Jstris https://jstris.jezevec10.com",
-      "items": [],
-      "title": "JSTris"
-    },
-    {
-      "description": "https://hubs.mozilla.com",
-      "items": [],
-      "title": "Mozilla Hubs"
-    },
-    {
-      "description": "Do you want to stream a multi-player game and no one of your friends like to play the game?, you can rent E-Girls to play game sessions with you (or E-Boys). The service is NOT Free, you must pay, prices may vary.",
-      "items": [],
-      "title": "E-Girls"
-    },
-    {
-      "description": "Live Curtain is a web page that displays a message of your choice, and an optional countdown clock. It's easy to use, whenever you want to show a message to your audience, such as: a 'stream starting soon' screen, or to say you're on a break. Enter your text, choose a theme, and share your browser window in your streaming tool.",
-      "items": [],
-      "title": "Live Curtain"
-    },
-    {
-      "description": "StreamTranslate - Real-time translated subtitles for Twitch, YouTube, Kick, and TikTok streams in 49 languages through an OBS browser source.",
-      "items": [],
-      "title": "StreamTranslate"
-    },
-    {
-      "description": "NoSub is a free web player for Twitch and Kick VODs, including sub-only replays the platforms still serve, with the original chat replayed in sync and searchable.\nIt marks the passages Twitch muted for copyright on the seek bar so you can skip them, shows chapters to jump between games, and cuts shareable clips. No account, nothing to install, available in English, French, Spanish and Portuguese.\nFew Twitch extensions for tech streams, random order, as example, theres always more on the Twitch catalog.\nSomething to consider for tech streams is that sometimes the most popular and effective Twitch Extensions for other categories can fail on tech streams, that tend to have less than 100 viewers, because if the extension is too Bits hungry no one will really use it, so Twitch Extensions without Bits, at least for basic functionality are preferred.\nThe Gaming stream extensions are over-saturated, the Tech stream extensions are underrated.",
-      "items": [],
-      "title": "NoSub"
-    },
-    {
-      "description": "https://dashboard.twitch.tv/extensions/7kodks69rwf64tad7558abd0268uzl-0.0.4",
-      "items": [],
-      "title": "Exclusive Content for Subscribers"
-    },
-    {
-      "description": "https://dashboard.twitch.tv/extensions/zowhdiwf4lqqoa99rphz5y38235qxu-0.0.1",
-      "items": [],
-      "title": "Streamer Timezone"
-    },
-    {
-      "description": "https://dashboard.twitch.tv/extensions/tdldrg6rlw5eewiwcpxo3dv0obyckc-0.9.1",
-      "items": [],
-      "title": "Overlays as Extensions"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/yncbd7i177on3ia536r307nlvt8g1w-0.1.1",
-      "items": [],
-      "title": "GitHub Projects"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/4pk2cbv7h3ur5j934vhe0gt8a829tj-1.1.2",
-      "items": [],
-      "title": "GitHub Repo Browser"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/ipthd4t8w0euh9djnycwc4a12e0694-1.1.2",
-      "items": [],
-      "title": "GitHub Profile"
-    },
-    {
-      "description": "https://dashboard.twitch.tv/extensions/e2vjyjiur6ak0mip91qrjnjcliq8n8-1.0.1\nhttps://www.twitch.tv/ext/jk6sz43il0oyzfl8xipehqacw8bchv-1.0.2",
-      "items": [],
-      "title": "StackOverflow Profile"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/pp16i51f77pxhwls8tqqo72f5m5ttz-0.4.0",
-      "items": [],
-      "title": "Better Information Panel"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/gh70y1spw727ohtgzbhc0hppvq9br2-0.2.0",
-      "items": [],
-      "title": "NicoNico"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/qcxdzgqw0sd1u50wqtwodjfd5dmkxz-1.0.0",
-      "items": [],
-      "title": "Twitter Timeline"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/wb3bnc8np7tdnxj2sfbk0aa3vklulo-1.0.6",
-      "items": [],
-      "title": "Latest Followers"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/9zqhb3hba48m0c382uno7k2t74isfi-0.1.4",
-      "items": [],
-      "title": "Viewer GeoLocation"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/6rh8h42nhnjmirlyxc0w9lbpmeehi0-0.4.2",
-      "items": [],
-      "title": "Suggestion Box"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/6t1ip2ejuoshyb63c9rq9rvacageuk-0.0.1",
-      "items": [],
-      "title": "Schedule"
-    },
-    {
-      "description": "https://www.twitch.tv/ext/xbfr3j9z0wzaov6bkvaam7wsovlxqj-1.0.0 (Stopped working?)",
-      "items": [],
-      "title": "Snow"
-    },
-    {
-      "description": "https://dashboard.twitch.tv/extensions/1pr3m2sq25u56a8xeg1ntoc5za9mep-1.0.0",
-      "items": [],
-      "title": "Streamer on a Map"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Livestreaming slang: Twitch Glossary"
-    },
-    {
-      "description": "A role for users on Twitch. Admins are paid by Twitch to enforce the Terms of Service, review user reports, and to assist in settling disputes around the site. Their role can be identified in chat via the yellow adorning a badge alongside their name.",
-      "items": [],
-      "title": "Admin"
-    },
-    {
-      "description": "A voluntary designation given to particular Twitch channels that have met a certain set of requirements that grants the channel features above that of a regular user. Current features are mainly limited to the ability to collect bits through Cheering (as well as priority placement in the transcoding queue), but will eventually expand into limited subscriptions, ad revenue, and game sales. Affiliate invitations are provided automatically, once a channel meets the requirements.",
-      "items": [],
-      "title": "Affiliate"
-    },
-    {
-      "description": "A single unit of the currency provided to a broadcaster by a viewer. Bits are purchased by viewers at a rate dictated by Twitch using real-world money, and then can be given to broadcasters by way of Cheering. Broadcasters, in turn, receive one cent per bit provided. Bits can only be given to broadcasters that are either Partnered or Affiliated, and then only those who have enabled the feature for their channels.",
-      "items": [],
-      "title": "Bits"
-    },
-    {
-      "description": "The rate at which data is being sent to Twitch from a broadcaster, typically measured in kilobits per second. The higher the rate, the more data will make it to Twitch for each second of a stream, which means the content can be viewed at higher resolutions and frame rate. Bitrates are typically limited by an Internet Service Provider (ISP), which can hamper a streamer's ability to broadcast at high rates, as well as prevent viewers from viewing high bitrate streams.",
-      "items": [],
-      "title": "Bitrate"
-    },
-    {
-      "description": "An automated user generally used to enhance the Chat experience. Bots can be used to moderate, provide alerts, and give interactivity to viewers in various ways.",
-      "items": [],
-      "title": "Bot"
-    },
-    {
-      "description": "An illicit method of boosting concurrent viewer numbers by creating synthetic viewers to \"watch\" a broadcast. Botting services can be bought by the broadcaster, but can also be used maliciously against a broadcaster to cast doubt on their viewership. Also known as Botting.",
-      "items": [],
-      "title": "ViewBotting"
-    },
-    {
-      "description": "An individual that streams data from their device to Twitch in order to allow viewers to view their content. Also known as the Streamer.",
-      "items": [],
-      "title": "Broadcaster"
-    },
-    {
-      "description": "An electronic device that allows a user to capture the view of another device, such as a gaming console or another computer, so that it may be used for broadcasting or recording. Capture cards can either be external (connected to a PC via USB or other port outside the PC) or internal (connected directly to the computer's motherboard, typically via PCIe), and can contain a variety of potential inputs.",
-      "items": [],
-      "title": "Capture Card"
-    },
-    {
-      "description": "A live chatroom accompanying a channel. All users are able to view the Chat, but only users with an account may submit messages for others to see. The Chat can be moderated by the broadcaster themselves, automated systems (like Twitch's Auto-Mod, or 3rd party \"bots\"), moderators designated by the broadcaster, and admins, global moderators, and Staff members from Twitch itself. The Chat will support text-based messages, as well as emotes approved by Twitch. These emotes can be global emotes to be used all around Twitch, or channel-specific emotes provided by subscriptions, Twitch Crates, or through unofficial extensions like BTTV.",
-      "items": [],
-      "title": "Chat"
-    },
-    {
-      "description": "A badge provided to users that have given certain amounts of bits overall to a given channel. As a user provides more bits, their badge will evolve. Partnered broadcasters can create custom Cheer Badges for their channel, whereas Affiliated broadcasters use the default icons.",
-      "items": [],
-      "title": "Cheer Badge"
-    },
-    {
-      "description": "The process by which a user gives bits to a broadcaster. Cheering is accomplished via the chat, and can be accompanied by text, emotes (known as \"cheermotes\"), or both. To cheer, a user types the phrase , where the X represents the desired number of bits the user wishes to cheer. Once cheered, a viewer's bits balance decrements appropriately.",
-      "items": [],
-      "title": "Cheering"
-    },
-    {
-      "description": "A feature on Twitch that enables users to create short videos of a particular livestream, either while live or afterwards. These videos can be easily spread via social media, and lead back to the originator's content when shared.",
-      "items": [],
-      "title": "Clips"
-    },
-    {
-      "description": "An additional tag broadcasters can use to better describe their type of content. Besides the stream title and game selection, the broadcaster can select (or create!) a community to place their channel in, and when they go live, their channel will appear within that community page. Popular communities include varietystreaming, positivity, game-specific tags, speedrunning, etc. The Creative side of Twitch also depends on this system, giving broadcasters the option to describe their craft (like food, digitalart, etc.)",
-      "items": [],
-      "title": "Communities"
-    },
-    {
-      "description": "The number of devices viewing a broadcast simultaneously. The term is usually dealt with in terms of live concurrent (how many viewers a broadcaster has at that moment), peak concurrent (the highest number of viewers a broadcaster has in a timespan), and average concurrent (average number of viewers at a certain rate).",
-      "items": [],
-      "title": "Concurrent Viewers"
-    },
-    {
-      "description": "The location on Twitch at which users may find live channels streaming under certain categories. Game Directories classify the channels by game (from highest live concurrent viewership to lowest), while Community Directories classify the channels by self-described labels (from highest live concurrent viewership to least).",
-      "items": [],
-      "title": "Directory"
-    },
-    {
-      "description": "A conversational tool used by many streamers and gaming enthusiasts to interact with another outside of Twitch or other social media. Each Discord server is made to match some purpose, such as a place to congregate for followers of a particular channel, or individuals sharing a common interest. These servers contain text and voice channels, which can be themed to match the genre of conversation.",
-      "items": [],
-      "title": "Discord"
-    },
-    {
-      "description": "Small pictures that can be embedded within text-based messages in Chat. Emotes (or Emoticons) can be accessed by typing a specific, case-sensitive phrase (like Grey Face, with no space). Some emotes are available for all users on Twitch (known as Global Emotes), while many are locked behind channel-specific subscriptions. If a user subscribes to a channel, they may use the channel's emotes throughout the rest of Twitch. Popular extensions like BTTV can also add additional emote functionality, by converting unofficial emote phrases into images that can only be seen by other users of said extensions.",
-      "items": [],
-      "title": "Emotes"
-    },
-    {
-      "description": "A method of signing up with a channel so that the user will receive alerts (if requested) of when a channel is live. Followed channels will be displayed on a user's channel page, as well as a list of the users that follow their channel.",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "A single image that, when ran in conjunction with other images, forms a moving picture. A stream will typically run at a rate of 30 to 60 frames per second (FPS) to create a fluid video. If the streaming device has difficulty encoding frames at any point, or if the connection between the streaming device and Twitch servers is disrupted, the stream will begin to skip some frames in order to compensate, otherwise known as dropping frames.",
-      "items": [],
-      "title": "Frame"
-    },
-    {
-      "description": "A user that accepted a friend request from another user. A Friend will be alerted when another friend enters a channel they're in, as well as will be provided with their status on Twitch (online/busy/idle, streaming, etc.).",
-      "items": [],
-      "title": "Friend"
-    },
-    {
-      "description": "A role for users on Twitch. Global Moderators are unpaid volunteers selected by Twitch, and have access to moderator tools across all channels. Their role can be identified in chat via the dark green badge containing an axe alongside their name.",
-      "items": [],
-      "title": "Global Moderator"
-    },
-    {
-      "description": "A method by which broadcasters and editors can make VODs out of VODs. These VODs have no expiration date, and can be viewed by anyone visiting the channel.",
-      "items": [],
-      "title": "Highlights"
-    },
-    {
-      "description": "A method of providing support to another channel, where a broadcaster's channel acts as a portal to another channel's live broadcast. Any viewers that the host's channel has at the time will be applied to the concurrent viewership of the hosted. For this reason, hosts are frequently used as a part of Raiding. To host a channel, a broadcaster must type in their own chat. If a channel is hosted while a broadcast is ongoing, the host will deactivate once the channel goes offline.",
-      "items": [],
-      "title": "Host"
-    },
-    {
-      "description": "An informal nickname given to users who view a broadcast without actively interacting with the Chat.",
-      "items": [],
-      "title": "Lurker"
-    },
-    {
-      "description": "A stream or series of streams that emphasize the length of time as a test of endurance. Some may feature one game activity, while others may only have a loose theme connecting the variety of content. Marathons are frequently used as fundraisers for charities or projects for the broadcaster.",
-      "items": [],
-      "title": "Marathons"
-    },
-    {
-      "description": "A role for users on Twitch. Moderators are chosen by a broadcaster, and are responsible for enforcing rules within a channel's chat. A Moderator has the power to purge (remove all messages from a specific user), time out (prevent a user from sending messages to the chat for a specified amount of time), and ban (prevent a user from sending messages permanently) in order to maintain order. Their role can be identified in chat via the bright green badge containing a sword alongside their name.",
-      "items": [],
-      "title": "Moderator"
-    },
-    {
-      "description": "An image or a series of images that are placed over the main content of a broadcast. Typical Overlay components include the name of the streamer, aesthetic borders and flair, information about donations/social media/follows/various other stats, space for a webcam, and more.",
-      "items": [],
-      "title": "Overlay"
-    },
-    {
-      "description": "A series of subsections below a channel's video player that can be used to convey whatever information the broadcaster chooses. Each panel can contain a picture that can be linked to another page, if desired. Typical panels include a description of the channel, links to social media, a method of giving money to the broadcaster, channel rules, and more.",
-      "items": [],
-      "title": "Panels"
-    },
-    {
-      "description": "A designation provided to channels that meet certain requirements, which provides a multitude of features to the broadcaster, including the ability to collect subscription fees, ad revenue, and bits, as well as receive guaranteed Transcoding servers, priority placement into beta featured programs, and more. The requirements for Partnership vary from channel to channel, and are reviewed only when a channel applies for the opportunity. Partners are required to stream at least 12 days per month.",
-      "items": [],
-      "title": "Partner"
-    },
-    {
-      "description": "A subscription service made via Amazon Prime. For a recurring rate, users can receive a handful of Twitch-specific benefits, including Ads removal, free subscriptions, free games, free badges, and more. Viewers with Prime can subscribe to a streamer for free.",
-      "items": [],
-      "title": "Prime"
-    },
-    {
-      "description": "The process in which a broadcaster directs their viewers to spam messages as they join another channel simultaneously, akin to a flash mob. broadcasters use Raids to support each other with large influxes of viewership, usually when the raid leader has finished their stream.",
-      "items": [],
-      "title": "Raid"
-    },
-    {
-      "description": "A role on for users on Twitch. Staff members are users that are employed throughout Twitch, and can be spotted in chat via the black badge containing a wrench alongside their name.",
-      "items": [],
-      "title": "Staff"
-    },
-    {
-      "description": "The process by which a broadcaster uses a program to transmit images and sound from their device to Twitch, and therefore allow others to view.",
-      "items": [],
-      "title": "Streaming"
-    },
-    {
-      "description": "A monthly payment users can make to Partnered channels in exchange for emotes and other benefits that vary from channel to channel. Users can choose to pay $4.99 USD, $9.99 USD, or $24.99 USD if the option has been provided by the channel, and each provide a percentage back to the channel owner.",
-      "items": [],
-      "title": "Subscription"
-    },
-    {
-      "description": "A group of channels on Twitch. Partnered channels can create Teams to work together alongside other channels, Partnered or not, to better assist in growth and community building.",
-      "items": [],
-      "title": "Team"
-    },
-    {
-      "description": "The method by which Twitch can reduce the original quality of a broadcaster's stream in order to allow more devices to view it. Some viewers may not be able to view a broadcaster's stream at the original bitrate provided, and so by reducing the quality, Twitch can reduce the bitrate needed to view it by the user.",
-      "items": [],
-      "title": "Transcoding"
-    },
-    {
-      "description": "Similar to Prime. Provides the same features as Prime, at a higher cost.",
-      "items": [],
-      "title": "Turbo"
-    },
-    {
-      "description": "A badge provided to Partnered channels that can be seen in any chat on Twitch. The Verified badge is purple, and contains a check mark.",
-      "items": [],
-      "title": "Verified"
-    },
-    {
-      "description": "A previously-recorded video that is viewable on Twitch. Streams on Twitch can generate recorded VODs on Twitch, if requested, to serve as a location for viewers to catch streams they either missed or wished to see again. VODs can also be uploaded to Twitch manually by a user. VODs can be named and provided with thumbnails by the broadcaster and their editors, and can be viewed by anyone visiting the channel. Stream recordings on standard channels will be automatically deleted 14 days after the stream occurred, while Partners and users that have Prime or Turbo can keep them for 60 days. Highlighted and uploaded VODs will remain on the site until the owner deletes them.",
-      "items": [],
-      "title": "Video on Demand (VOD)"
-    },
-    {
-      "description": "A private message sent to users that can only be seen by those involved. A whisper may be viewed within the Chat, as well as separate windows generated when a whisper is attempted.",
-      "items": [],
-      "title": "Whisper"
+      "description": "Plugin Install:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/sorayuki/obs-multi-rtmp",
+          "description": "(Alternative is to use )",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250207810,
+            "language": "C++",
+            "last_commit": "2026-08-01T00:36:38Z",
+            "owner": "sorayuki",
+            "repo": "obs-multi-rtmp",
+            "stars": 4998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBS Background removal https://github.com/royshil/obs-backgroundremoval#introduction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 358081783,
+            "language": "C++",
+            "last_commit": "2026-08-19T10:01:00Z",
+            "owner": "royshil",
+            "repo": "obs-backgroundremoval",
+            "stars": 4478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/univrsal/input-overlay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99977220,
+            "language": "C++",
+            "last_commit": "2026-07-25T17:17:05Z",
+            "owner": "univrsal",
+            "repo": "input-overlay",
+            "stars": 4136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196756402,
+            "language": "C++",
+            "last_commit": "2025-10-15T02:44:28Z",
+            "owner": "ratwithacompiler",
+            "repo": "OBS-captions-plugin",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBS Move Transitions https://github.com/exeldro/obs-move-transition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250775408,
+            "language": "C",
+            "last_commit": "2026-08-17T05:41:35Z",
+            "owner": "exeldro",
+            "repo": "obs-move-transition",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/univrsal/spectralizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 187897940,
+            "language": "C++",
+            "last_commit": "2022-03-30T11:53:32Z",
+            "owner": "univrsal",
+            "repo": "spectralizer",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/bazukas/obs-linuxbrowser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 85990635,
+            "language": "C",
+            "last_commit": "2020-03-27T08:38:42Z",
+            "owner": "bazukas",
+            "repo": "obs-linuxbrowser",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kori https://github.com/askq-git/kori",
+          "description": "Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317772054,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:36:28Z",
+            "owner": "askq-git",
+            "repo": "kori",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "OBS Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:14:07.084Z",
+    "last_updated": "2026-08-19T12:55:02.949Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
+    "original_repository_id": 221719179,
     "original_repository_sha": "86fd9440c9c5a25f4c05e972eda21f8e8a21f6ee",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
