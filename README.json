@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-19T10:01:00Z",
+            "last_commit": "2026-08-19T13:43:14Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4478
+            "stars": 4479
           }
         },
         {
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:02.949Z",
+    "last_updated": "2026-08-19T15:14:24.973Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "86fd9440c9c5a25f4c05e972eda21f8e8a21f6ee",

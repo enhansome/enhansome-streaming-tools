@@ -17,9 +17,9 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 * `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 4,998 | 🐛 211 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,478 | 🐛 18 | 🌐 C++ | 📅 2026-08-19
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,479 | 🐛 19 | 🌐 C++ | 📅 2026-08-19
 * `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,136 | 🐛 26 | 🌐 C++ | 📅 2026-07-25
-* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,325 | 🐛 83 | 🌐 C++ | 📅 2025-10-15
+* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,325 | 🐛 84 | 🌐 C++ | 📅 2025-10-15
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 907 | 🐛 117 | 🌐 C | 📅 2026-08-17
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
@@ -57,7 +57,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 10 | 🐛 14 | 🌐 Go | 📅 2026-08-19).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 10 | 🐛 12 | 🌐 Go | 📅 2026-08-19).
 
 ## CodingFreaks Overlays
 
