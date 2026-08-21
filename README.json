@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-20T13:06:54Z",
+            "last_commit": "2026-08-21T13:10:07Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4481
+            "stars": 4483
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T05:41:35Z",
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 909
+            "stars": 910
           }
         },
         {
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:17:49.688Z",
+    "last_updated": "2026-08-21T15:16:25.407Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "86fd9440c9c5a25f4c05e972eda21f8e8a21f6ee",
