@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5001
+            "stars": 5003
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-21T13:10:07Z",
+            "last_commit": "2026-08-22T12:25:36Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4483
+            "stars": 4485
           }
         },
         {
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:16:25.407Z",
+    "last_updated": "2026-08-22T15:00:34.039Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "86fd9440c9c5a25f4c05e972eda21f8e8a21f6ee",
