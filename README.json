@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5006
+            "stars": 5008
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-23T09:37:38Z",
+            "last_commit": "2026-08-24T11:24:16Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4486
+            "stars": 4488
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4137
+            "stars": 4136
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T09:53:21Z",
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1325
+            "stars": 1324
           }
         },
         {
@@ -125,13 +125,157 @@
         }
       ],
       "title": "OBS Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flameshot",
+              "description": "is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget, very nice if you need to take screenshots for your stream.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90902132,
+                "language": "C++",
+                "last_commit": "2026-08-22T15:44:25Z",
+                "owner": "flameshot-org",
+                "repo": "flameshot",
+                "stars": 30680
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flameshot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cool Retro Term",
+              "description": "is a is an open source crossplatform Qt5/QML Terminal app, with configurable effects, you can disable any or all effects too, copy&paste works, for the rest is a normal terminal app but looks fancy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14614344,
+                "language": "QML",
+                "last_commit": "2026-05-31T10:12:54Z",
+                "owner": "Swordfish90",
+                "repo": "cool-retro-term",
+                "stars": 25947
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cool Retro Term"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SWCursor",
+              "description": "is a simple C program that allows you to use any PNG image as Mouse cursor, so you can use your Logo as cursor or an extra big cursor on your stream. You can remove the cursor by closing the program.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172296888,
+                "language": "C",
+                "last_commit": "2022-10-20T08:26:06Z",
+                "owner": "andykitchen",
+                "repo": "swcursor",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SWCursor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mixer",
+              "description": "is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition. It allows multiple Blender users to work on the same scene at the same time. If you livestream digital Art, you can colab with other streamers or viewers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 283971551,
+                "language": "Python",
+                "last_commit": "2022-08-01T12:58:40Z",
+                "owner": "ubisoft",
+                "repo": "mixer",
+                "stars": 1345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blender"
+        }
+      ],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "You can use MultiTwitch",
+              "description": "to watch any number of Twitch streams at the same time (as long as your computer can handle it). Simply put the streams you want in the url. MultiTwitch will optimize the layout of streams to give you the maximum size on each of the streams, while maintaining aspect ratio. Source https://github.com/bhamrick/multitwitch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6962080,
+                "language": "JavaScript",
+                "last_commit": "2022-02-05T04:30:28Z",
+                "owner": "bhamrick",
+                "repo": "multitwitch",
+                "stars": 626
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MultiTwitch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenSelery",
+              "description": "is a decentralized framework for a free and transparent salary distribution in free software. It defines a funding distribution to generate a transparent and adaptable cash flow to your digital project and all its contributors. Transparent payout to the developers of your Github project. Distribution of money is done via Bitcoin (currently via Coinbase). Transparent payout with public Logs. This tools remains to be investigated, but is still in development too.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 230329400,
+                "language": "Python",
+                "last_commit": "2022-08-27T21:17:21Z",
+                "owner": "protontypes",
+                "repo": "LibreSelery",
+                "stars": 126
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenSelery"
+        }
+      ],
+      "title": "Web Based Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:01:36.257Z",
+    "last_updated": "2026-08-24T14:26:04.609Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
-    "original_repository_sha": "86fd9440c9c5a25f4c05e972eda21f8e8a21f6ee",
+    "original_repository_sha": "2888388160206b40bf91f5fccea5476877273915",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
