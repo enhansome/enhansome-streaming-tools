@@ -27,7 +27,7 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-24T11:24:16Z",
+            "last_commit": "2026-08-25T15:05:21Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
             "stars": 4489
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4137
+            "stars": 4139
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 196756402,
             "language": "C++",
-            "last_commit": "2026-08-23T09:53:21Z",
+            "last_commit": "2026-08-25T06:36:55Z",
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
             "stars": 1324
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T05:41:35Z",
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 910
+            "stars": 911
           }
         },
         {
@@ -140,10 +140,10 @@
                 "archived": false,
                 "id": 90902132,
                 "language": "C++",
-                "last_commit": "2026-08-22T15:44:25Z",
+                "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30687
+                "stars": 30689
               }
             }
           ],
@@ -165,7 +165,7 @@
                 "last_commit": "2026-05-31T10:12:54Z",
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25947
+                "stars": 25950
               }
             }
           ],
@@ -272,7 +272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:53.821Z",
+    "last_updated": "2026-08-25T15:28:39.328Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "2888388160206b40bf91f5fccea5476877273915",
