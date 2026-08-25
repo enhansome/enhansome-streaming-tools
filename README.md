@@ -15,10 +15,10 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,008 | 🐛 213 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,010 | 🐛 214 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,488 | 🐛 19 | 🌐 C++ | 📅 2026-08-24
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,136 | 🐛 27 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,489 | 🐛 19 | 🌐 C++ | 📅 2026-08-24
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,137 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,324 | 🐛 84 | 🌐 C++ | 📅 2026-08-23
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 910 | 🐛 117 | 🌐 C | 📅 2026-08-17
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
@@ -134,10 +134,10 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,682 | 🐛 714 | 🌐 C++ | 📅 2026-08-22 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,687 | 🐛 717 | 🌐 C++ | 📅 2026-08-22 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,682 | 🐛 714 | 🌐 C++ | 📅 2026-08-22
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,687 | 🐛 717 | 🌐 C++ | 📅 2026-08-22
 
 ## Cool Retro Term
 
@@ -229,7 +229,7 @@ You can use [MultiTwitch](http://www.multitwitch.tv) to watch any number of [Twi
 Simply put the streams you want in the url.
 [MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams,
 while maintaining aspect ratio.
-Source <https://github.com/bhamrick/multitwitch> ⭐ 626 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
+Source <https://github.com/bhamrick/multitwitch> ⭐ 625 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
 
 ## Featured Chats
 
@@ -1212,4 +1212,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sorayuki/obs-multi-rtmp",
+          "title": "sorayuki/obs-multi-rtmp",
           "description": "(Alternative is to use )",
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5008
+            "stars": 5010
           }
         },
         {
@@ -30,12 +30,12 @@
             "last_commit": "2026-08-24T11:24:16Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4488
+            "stars": 4489
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/univrsal/input-overlay",
+          "title": "univrsal/input-overlay",
           "description": null,
           "children": [],
           "repo_info": {
@@ -45,12 +45,12 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4136
+            "stars": 4137
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin",
+          "title": "ratwithacompiler/OBS-captions-plugin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/univrsal/spectralizer",
+          "title": "univrsal/spectralizer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bazukas/obs-linuxbrowser",
+          "title": "bazukas/obs-linuxbrowser",
           "description": null,
           "children": [],
           "repo_info": {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-22T15:44:25Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30682
+                "stars": 30687
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2022-02-05T04:30:28Z",
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 626
+                "stars": 625
               }
             }
           ],
@@ -272,7 +272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:24:02.263Z",
+    "last_updated": "2026-08-25T06:18:53.821Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "2888388160206b40bf91f5fccea5476877273915",
