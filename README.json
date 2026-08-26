@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5010
+            "stars": 5013
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-25T15:05:21Z",
+            "last_commit": "2026-08-26T09:54:29Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4489
+            "stars": 4492
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4139
+            "stars": 4141
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 250775408,
             "language": "C",
-            "last_commit": "2026-08-17T05:41:35Z",
+            "last_commit": "2026-08-26T12:14:05Z",
             "owner": "exeldro",
             "repo": "obs-move-transition",
             "stars": 911
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30689
+                "stars": 30702
               }
             }
           ],
@@ -165,7 +165,7 @@
                 "last_commit": "2026-05-31T10:12:54Z",
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25950
+                "stars": 25956
               }
             }
           ],
@@ -272,7 +272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:28:39.328Z",
+    "last_updated": "2026-08-26T16:05:39.823Z",
     "original_repository": "juancarlospaco/awesome-streaming-tools",
     "original_repository_id": 221719179,
     "original_repository_sha": "2888388160206b40bf91f5fccea5476877273915",
