@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5013
+            "stars": 5018
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-26T09:54:29Z",
+            "last_commit": "2026-08-27T08:49:47Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4492
+            "stars": 4494
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4141
+            "stars": 4143
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-25T06:36:55Z",
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -133,6 +133,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Webcam Settings",
+              "description": "is an open source cross-platform C++/Qt desktop app and CLI for discovering and adjusting webcam controls without OBS or vendor software. It verifies camera-accepted values, saves reusable profiles, and can identify applications that are holding a camera open.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1348214395,
+                "language": "C++",
+                "last_commit": "2026-08-27T09:02:45Z",
+                "owner": "tadas-subonis",
+                "repo": "webcam-settings",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Webcam Settings"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Flameshot",
               "description": "is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget, very nice if you need to take screenshots for your stream.",
               "children": [],
@@ -143,7 +165,7 @@
                 "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30702
+                "stars": 30705
               }
             }
           ],
@@ -165,7 +187,7 @@
                 "last_commit": "2026-05-31T10:12:54Z",
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25956
+                "stars": 25957
               }
             }
           ],
@@ -272,10 +294,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:39.823Z",
-    "original_repository": "juancarlospaco/awesome-streaming-tools",
-    "original_repository_id": 221719179,
-    "original_repository_sha": "2888388160206b40bf91f5fccea5476877273915",
+    "last_updated": "2026-08-27T12:05:06.492Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 221719179,
+      "language": null,
+      "last_commit": "2026-08-27T11:14:20Z",
+      "owner": "juancarlospaco",
+      "repo": "awesome-streaming-tools",
+      "stars": 383
+    },
+    "original_repository_sha": "49a92d3a13fdf68d31311b97ee48043c740a8fde",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
