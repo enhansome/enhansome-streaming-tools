@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T00:36:38Z",
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5018
+            "stars": 5021
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-27T08:49:47Z",
+            "last_commit": "2026-08-27T20:11:00Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
             "stars": 4494
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4143
+            "stars": 4144
           }
         },
         {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30705
+                "stars": 30708
               }
             }
           ],
@@ -187,7 +187,7 @@
                 "last_commit": "2026-05-31T10:12:54Z",
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25957
+                "stars": 25960
               }
             }
           ],
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:06.492Z",
+    "last_updated": "2026-08-28T00:02:50.379Z",
     "original_repository_info": {
       "archived": false,
       "id": 221719179,
