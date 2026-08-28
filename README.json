@@ -16,7 +16,8 @@
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
             "stars": 5021
-          }
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-27T20:11:00Z",
+            "last_commit": "2026-08-28T13:48:03Z",
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4494
-          }
+            "stars": 4496
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-25T17:17:05Z",
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4144
-          }
+            "stars": 4145
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-25T06:36:55Z",
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1325
-          }
+            "stars": 1326
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 250775408,
             "language": "C",
-            "last_commit": "2026-08-26T12:14:05Z",
+            "last_commit": "2026-08-28T07:36:39Z",
             "owner": "exeldro",
             "repo": "obs-move-transition",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "univrsal",
             "repo": "spectralizer",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "bazukas",
             "repo": "obs-linuxbrowser",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "askq-git",
             "repo": "kori",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:43:04.215Z"
         }
       ],
       "title": "OBS Plugins"
@@ -144,7 +152,8 @@
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -162,11 +171,12 @@
                 "archived": false,
                 "id": 90902132,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:21:27Z",
+                "last_commit": "2026-08-28T19:11:15Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30708
-              }
+                "stars": 30709
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -187,8 +197,9 @@
                 "last_commit": "2026-05-31T10:12:54Z",
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25960
-              }
+                "stars": 25964
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -210,7 +221,8 @@
                 "owner": "andykitchen",
                 "repo": "swcursor",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -232,7 +244,8 @@
                 "owner": "ubisoft",
                 "repo": "mixer",
                 "stars": 1345
-              }
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -260,7 +273,8 @@
                 "owner": "bhamrick",
                 "repo": "multitwitch",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -282,7 +296,8 @@
                 "owner": "protontypes",
                 "repo": "LibreSelery",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T23:43:04.215Z"
             }
           ],
           "description": null,
@@ -294,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:02:50.379Z",
+    "last_updated": "2026-08-28T23:43:04.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 221719179,
