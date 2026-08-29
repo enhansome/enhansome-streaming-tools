@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OBS複数サイト同時配信プラグイン",
+            "homepage": "https://sorayuki.github.io/obs-multi-rtmp/",
             "id": 250207810,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-01T00:36:38Z",
+            "open_issues": 215,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5021
+            "stars": 5023,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -26,12 +31,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.",
+            "homepage": "https://royshil.github.io/obs-backgroundremoval/",
             "id": 358081783,
             "language": "C++",
-            "last_commit": "2026-08-28T13:48:03Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:48:53Z",
+            "open_issues": 24,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4496
+            "stars": 4497,
+            "topics": [
+              "background-segmentation",
+              "computer-vision",
+              "image-segmentation",
+              "libobs",
+              "mac-osx",
+              "obs",
+              "obs-plugin",
+              "obs-studio",
+              "obs-studio-plugin",
+              "obsproject",
+              "onnx",
+              "onnx-runtime",
+              "onnxruntime",
+              "onnxruntime-gpu",
+              "plugin",
+              "video-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -42,12 +69,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show keyboard, gamepad and mouse input on stream",
+            "homepage": null,
             "id": 99977220,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-25T17:17:05Z",
+            "open_issues": 29,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4145
+            "stars": 4146,
+            "topics": [
+              "input",
+              "keyboard",
+              "obs",
+              "overlay",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -58,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Closed Captioning OBS plugin using Google Speech Recognition",
+            "homepage": null,
             "id": 196756402,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T06:36:55Z",
+            "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1326
+            "stars": 1326,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move transition for OBS Studio",
+            "homepage": "https://obsproject.com/forum/resources/move-transition.913/",
             "id": 250775408,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T07:36:39Z",
+            "open_issues": 117,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -90,12 +138,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Audio visualizer plugin for obs-studio",
+            "homepage": null,
             "id": 187897940,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2022-03-30T11:53:32Z",
+            "open_issues": 12,
             "owner": "univrsal",
             "repo": "spectralizer",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "audio",
+              "obs-studio",
+              "plugin",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -106,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OBS Linux Browser Plugin",
+            "homepage": null,
             "id": 85990635,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-03-27T08:38:42Z",
+            "open_issues": 15,
             "owner": "bazukas",
             "repo": "obs-linuxbrowser",
-            "stars": 518
+            "stars": 518,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         },
@@ -122,12 +185,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Windows plugin for smooth camera-style zooms in OBS Studio—hotkeys, automatic scene activation and whole-scene motion.",
+            "homepage": "https://koricamera.com",
             "id": 1317772054,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-13T01:36:28Z",
+            "open_issues": 0,
             "owner": "askq-git",
             "repo": "kori",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "camera-movement",
+              "cpp",
+              "live-streaming",
+              "obs-plugin",
+              "obs-studio",
+              "obs-studio-plugin",
+              "scene-animation",
+              "video-production",
+              "windows",
+              "zoom-animation"
+            ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
         }
@@ -146,12 +225,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native cross-platform webcam controls, profiles, camera-user detection, and CLI in C++/Qt",
+                "homepage": null,
                 "id": 1348214395,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:02:45Z",
+                "open_issues": 0,
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "camera",
+                  "cmake",
+                  "cpp",
+                  "linux",
+                  "macos",
+                  "qt",
+                  "webcam",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -169,12 +262,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
+                "homepage": "https://flameshot.org",
                 "id": 90902132,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:11:15Z",
+                "open_issues": 716,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30709
+                "stars": 30709,
+                "topics": [
+                  "capture",
+                  "cross-platform",
+                  "free-software",
+                  "gnu-linux",
+                  "gui",
+                  "hacktoberfest",
+                  "image-editing",
+                  "qt",
+                  "screenshot"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -192,12 +300,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A good looking terminal emulator which mimics the old cathode display...",
+                "homepage": null,
                 "id": 14614344,
                 "language": "QML",
+                "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
+                "open_issues": 561,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25964
+                "stars": 25966,
+                "topics": [
+                  "linux",
+                  "macos",
+                  "qml",
+                  "qt",
+                  "retro",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -215,12 +335,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large software cursor for screen recording on X11",
+                "homepage": null,
                 "id": 172296888,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-10-20T08:26:06Z",
+                "open_issues": 2,
                 "owner": "andykitchen",
                 "repo": "swcursor",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "gdk",
+                  "gtk",
+                  "gtk-3",
+                  "gtk3",
+                  "screencast",
+                  "screensaver",
+                  "x11-cursor",
+                  "xlib"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -238,12 +372,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Add-on for real-time collaboration in Blender.",
+                "homepage": "https://ubisoft-mixer.readthedocs.io/",
                 "id": 283971551,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-01T12:58:40Z",
+                "open_issues": 13,
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1345
+                "stars": 1345,
+                "topics": [
+                  "blender",
+                  "blender-addon",
+                  "collaboration",
+                  "ubisoft"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -267,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiple twitch streams on one page",
+                "homepage": null,
                 "id": 6962080,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-05T04:30:28Z",
+                "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 625
+                "stars": 625,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -290,12 +439,37 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Continuous distribution of funding to your project contributors and dependencies. Integrated into GitHub Actions",
+                "homepage": null,
                 "id": 230329400,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-08-27T21:17:21Z",
+                "open_issues": 79,
                 "owner": "protontypes",
                 "repo": "LibreSelery",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "actions",
+                  "bitcoin",
+                  "coinbase-account",
+                  "coinbase-api",
+                  "coinbase-wallet",
+                  "continuous-funding",
+                  "continuous-integration",
+                  "cryptocurrency",
+                  "defi",
+                  "dependencies",
+                  "devops",
+                  "donation",
+                  "fintech",
+                  "fund",
+                  "funding",
+                  "grants",
+                  "payment",
+                  "sponsorships",
+                  "transparency"
+                ]
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
             }
@@ -309,15 +483,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:04.215Z",
+    "last_updated": "2026-08-29T04:44:37.183Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Streaming Tools",
+      "homepage": "https://gist.github.com/juancarlospaco/37da34ed13a609663f55f4466c4dbc3e",
       "id": 221719179,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-27T11:14:20Z",
+      "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 383
+      "stars": 383,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "boilerplate",
+        "linux",
+        "mac",
+        "noob-friendly",
+        "obs",
+        "obs-studio",
+        "obs-studio-plugin",
+        "starter-kit",
+        "tech-streams",
+        "template",
+        "twitch",
+        "twitch-api",
+        "twitch-extensions"
+      ]
     },
     "original_repository_sha": "49a92d3a13fdf68d31311b97ee48043c740a8fde",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",

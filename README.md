@@ -15,10 +15,10 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,021 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,023 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,496 | 🐛 24 | 🌐 C++ | 📅 2026-08-28
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,145 | 🐛 29 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,497 | 🐛 24 | 🌐 C++ | 📅 2026-08-29
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,146 | 🐛 29 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,326 | 🐛 85 | 🌐 C++ | 📅 2026-08-25
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 911 | 🐛 117 | 🌐 C | 📅 2026-08-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
@@ -147,10 +147,10 @@ very nice if you need to take screenshots for your stream.
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,964 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,966 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,964 | 🐛 561 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,966 | 🐛 561 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1218,4 +1218,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
