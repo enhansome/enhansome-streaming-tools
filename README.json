@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T03:48:53Z",
+            "last_commit": "2026-08-29T15:10:35Z",
             "open_issues": 24,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4497,
+            "stars": 4498,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -105,7 +105,7 @@
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1326,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -271,7 +271,7 @@
                 "open_issues": 716,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30709,
+                "stars": 30710,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 561,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25966,
+                "stars": 25968,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:37.183Z",
+    "last_updated": "2026-08-29T17:55:06.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
