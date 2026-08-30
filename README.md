@@ -15,10 +15,10 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,023 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,025 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,498 | 🐛 24 | 🌐 C++ | 📅 2026-08-29
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,146 | 🐛 29 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,499 | 🐛 23 | 🌐 C++ | 📅 2026-08-30
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,151 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,325 | 🐛 85 | 🌐 C++ | 📅 2026-08-25
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 911 | 🐛 117 | 🌐 C | 📅 2026-08-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
@@ -63,6 +63,12 @@ It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions acr
 
 [CodingFreaks Overlays](https://twitch-overlays.coding-freaks.com/en/overlays/) is a collection of chat-driven overlays for OBS. Downloads are self-contained HTML files that run locally in your Browser Source, with no cloud service and no account. Viewer points, if you use them, can go through StreamElements, Firebot or Streamer.bot.
 
+## PixelyChat
+
+[PixelyChat](https://pixelychat.com) is a free desktop app that merges Twitch, YouTube, TikTok, and Kick chat into one
+unified feed you can pipe into OBS/Streamlabs as a live overlay or dock, with built-in neural
+text-to-speech, real-time chat translation, alerts overlays and moderation/bot tools.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -76,7 +82,7 @@ Anything you need for a few dollars
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,297 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-29
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,297 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-30
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
@@ -140,17 +146,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,710 | 🐛 716 | 🌐 C++ | 📅 2026-08-28 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,719 | 🐛 717 | 🌐 C++ | 📅 2026-08-30 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,710 | 🐛 716 | 🌐 C++ | 📅 2026-08-28
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,719 | 🐛 717 | 🌐 C++ | 📅 2026-08-30
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,968 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,970 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,968 | 🐛 561 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,970 | 🐛 561 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1218,4 +1224,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
