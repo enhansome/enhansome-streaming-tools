@@ -19,7 +19,7 @@
             "open_issues": 215,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5025,
+            "stars": 5026,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T16:54:37Z",
-            "open_issues": 23,
+            "last_commit": "2026-08-31T20:04:52Z",
+            "open_issues": 9,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4499,
+            "stars": 4501,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4151,
+            "stars": 4153,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1325,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -126,7 +126,7 @@
             "open_issues": 117,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 911,
+            "stars": 912,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -173,7 +173,7 @@
             "open_issues": 15,
             "owner": "bazukas",
             "repo": "obs-linuxbrowser",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "askq-git",
             "repo": "kori",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "camera-movement",
               "cpp",
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
-                "stars": 2,
+                "stars": 4,
                 "topics": [
                   "camera",
                   "cmake",
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-30T08:50:34Z",
-                "open_issues": 717,
+                "open_issues": 719,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30719,
+                "stars": 30737,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 561,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25970,
+                "stars": 25972,
                 "topics": [
                   "linux",
                   "macos",
@@ -420,7 +420,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 625,
+                "stars": 626,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:11:51.507Z",
+    "last_updated": "2026-08-31T20:25:05.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",

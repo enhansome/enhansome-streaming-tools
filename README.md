@@ -15,15 +15,15 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,025 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,026 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,499 | 🐛 23 | 🌐 C++ | 📅 2026-08-30
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,151 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
-* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,325 | 🐛 85 | 🌐 C++ | 📅 2026-08-25
-* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 911 | 🐛 117 | 🌐 C | 📅 2026-08-28
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,501 | 🐛 9 | 🌐 C++ | 📅 2026-08-31
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,153 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
+* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,326 | 🐛 85 | 🌐 C++ | 📅 2026-08-25
+* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 912 | 🐛 117 | 🌐 C | 📅 2026-08-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
-* Kori <https://github.com/askq-git/kori> ⭐ 1 | 🐛 0 | 🌐 C++ | 📅 2026-08-13 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
+* Kori <https://github.com/askq-git/kori> ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-13 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
 
 **Plugin Install:**
 
@@ -51,13 +51,13 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 ## Fikir Overlay
 
-[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
+[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
 
 ## All-Chat
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 10 | 🐛 25 | 🌐 Go | 📅 2026-08-29).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 10 | 🐛 28 | 🌐 Go | 📅 2026-08-31).
 
 ## CodingFreaks Overlays
 
@@ -82,7 +82,7 @@ Anything you need for a few dollars
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,297 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-30
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,298 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-30
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
@@ -110,9 +110,9 @@ it can cover faces with PNG images, it can blurry faces, it can add face masks, 
 
 ## Webcam Settings
 
-[Webcam Settings](https://github.com/tadas-subonis/webcam-settings) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-27 is an open source cross-platform C++/Qt desktop app and CLI for discovering and adjusting webcam controls without OBS or vendor software. It verifies camera-accepted values, saves reusable profiles, and can identify applications that are holding a camera open.
+[Webcam Settings](https://github.com/tadas-subonis/webcam-settings) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2026-08-27 is an open source cross-platform C++/Qt desktop app and CLI for discovering and adjusting webcam controls without OBS or vendor software. It verifies camera-accepted values, saves reusable profiles, and can identify applications that are holding a camera open.
 
-[![](https://raw.githubusercontent.com/tadas-subonis/webcam-settings/main/artifacts/12-camera-user-detection.png)](https://github.com/tadas-subonis/webcam-settings) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-27
+[![](https://raw.githubusercontent.com/tadas-subonis/webcam-settings/main/artifacts/12-camera-user-detection.png)](https://github.com/tadas-subonis/webcam-settings) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2026-08-27
 
 ## Visual Studio Code
 
@@ -146,17 +146,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,719 | 🐛 717 | 🌐 C++ | 📅 2026-08-30 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,737 | 🐛 719 | 🌐 C++ | 📅 2026-08-30 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,719 | 🐛 717 | 🌐 C++ | 📅 2026-08-30
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,737 | 🐛 719 | 🌐 C++ | 📅 2026-08-30
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,970 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,972 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,970 | 🐛 561 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,972 | 🐛 561 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -241,7 +241,7 @@ You can use [MultiTwitch](http://www.multitwitch.tv) to watch any number of [Twi
 Simply put the streams you want in the url.
 [MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams,
 while maintaining aspect ratio.
-Source <https://github.com/bhamrick/multitwitch> ⭐ 625 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
+Source <https://github.com/bhamrick/multitwitch> ⭐ 626 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
 
 ## Featured Chats
 
@@ -1224,4 +1224,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
