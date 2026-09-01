@@ -19,7 +19,7 @@
             "open_issues": 215,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5026,
+            "stars": 5029,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T20:04:52Z",
+            "last_commit": "2026-09-01T17:08:04Z",
             "open_issues": 9,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4501,
+            "stars": 4502,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4153,
+            "stars": 4152,
             "topics": [
               "input",
               "keyboard",
@@ -102,10 +102,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T06:36:55Z",
-            "open_issues": 85,
+            "open_issues": 84,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1326,
+            "stars": 1328,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -267,11 +267,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T08:50:34Z",
-                "open_issues": 719,
+                "last_commit": "2026-09-01T17:49:04Z",
+                "open_issues": 718,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30737,
+                "stars": 30745,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -341,7 +341,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2022-10-20T08:26:06Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "andykitchen",
                 "repo": "swcursor",
                 "stars": 34,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:25:05.186Z",
+    "last_updated": "2026-09-01T17:59:33.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
