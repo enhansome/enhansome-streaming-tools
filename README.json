@@ -19,7 +19,7 @@
             "open_issues": 215,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5039,
+            "stars": 5042,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4513,
+            "stars": 4518,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4158,
+            "stars": 4161,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 84,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1330,
+            "stars": 1331,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -126,7 +126,7 @@
             "open_issues": 117,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 914,
+            "stars": 916,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-02T20:52:22Z",
-                "open_issues": 726,
+                "open_issues": 727,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30779,
+                "stars": 30786,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 561,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25977,
+                "stars": 25982,
                 "topics": [
                   "linux",
                   "macos",
@@ -420,7 +420,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 629,
+                "stars": 630,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:57:16.518Z",
+    "last_updated": "2026-09-06T17:21:53.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
