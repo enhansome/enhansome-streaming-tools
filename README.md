@@ -15,9 +15,9 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,042 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,043 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,518 | 🐛 10 | 🌐 C++ | 📅 2026-09-05
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,521 | 🐛 10 | 🌐 C++ | 📅 2026-09-05
 * `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,161 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,331 | 🐛 84 | 🌐 C++ | 📅 2026-08-25
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 916 | 🐛 117 | 🌐 C | 📅 2026-08-28
@@ -51,13 +51,13 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 ## Fikir Overlay
 
-[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
+[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
 
 ## All-Chat
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 12 | 🐛 3 | 🌐 Go | 📅 2026-09-04).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 13 | 🐛 17 | 🌐 Go | 📅 2026-09-07).
 
 ## CodingFreaks Overlays
 
@@ -146,17 +146,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,786 | 🐛 727 | 🌐 C++ | 📅 2026-09-02 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,796 | 🐛 725 | 🌐 C++ | 📅 2026-09-07 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,786 | 🐛 727 | 🌐 C++ | 📅 2026-09-02
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,796 | 🐛 725 | 🌐 C++ | 📅 2026-09-07
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,982 | 🐛 561 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,984 | 🐛 562 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,982 | 🐛 561 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,984 | 🐛 562 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1222,7 +1222,8 @@ $juancarlospaco
 :star: [@redbouk](https://github.com/redbouk "2026-08-09")
 :star: [@G10hdz](https://github.com/G10hdz "2026-08-17")
 :star: [@OpticReshape](https://github.com/OpticReshape "2026-09-04")
+:star: [@Ignatz-CastroR](https://github.com/Ignatz-CastroR "2026-09-07")
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
