@@ -15,12 +15,12 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,045 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,048 | 🐛 215 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,523 | 🐛 10 | 🌐 C++ | 📅 2026-09-05
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,165 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,524 | 🐛 10 | 🌐 C++ | 📅 2026-09-05
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,166 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,331 | 🐛 84 | 🌐 C++ | 📅 2026-08-25
-* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 916 | 🐛 117 | 🌐 C | 📅 2026-08-28
+* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 915 | 🐛 117 | 🌐 C | 📅 2026-08-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
 * Kori <https://github.com/askq-git/kori> ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-13 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
@@ -146,17 +146,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,805 | 🐛 727 | 🌐 C++ | 📅 2026-09-07 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,814 | 🐛 723 | 🌐 C++ | 📅 2026-09-08 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,805 | 🐛 727 | 🌐 C++ | 📅 2026-09-07
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,814 | 🐛 723 | 🌐 C++ | 📅 2026-09-08
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,984 | 🐛 562 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,989 | 🐛 562 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,984 | 🐛 562 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 25,989 | 🐛 562 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1226,4 +1226,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
