@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-01T00:36:38Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5048,
+            "stars": 5049,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T15:40:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-10T07:54:29Z",
+            "open_issues": 11,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4524,
+            "stars": 4527,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4166,
+            "stars": 4168,
             "topics": [
               "input",
               "keyboard",
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-08T22:32:10Z",
-                "open_issues": 723,
+                "open_issues": 721,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30814,
+                "stars": 30826,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -306,10 +306,10 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 562,
+                "open_issues": 563,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25989,
+                "stars": 25990,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:01:31.135Z",
+    "last_updated": "2026-09-10T17:54:21.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
