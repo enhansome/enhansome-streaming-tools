@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5049,
+            "stars": 5052,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4527,
+            "stars": 4530,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4168,
+            "stars": 4170,
             "topics": [
               "input",
               "keyboard",
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "camera",
                   "cmake",
@@ -267,11 +267,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T22:32:10Z",
+                "last_commit": "2026-09-11T00:22:17Z",
                 "open_issues": 721,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30826,
+                "stars": 30832,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 563,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 25990,
+                "stars": 25994,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:54:21.886Z",
+    "last_updated": "2026-09-11T17:56:44.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
