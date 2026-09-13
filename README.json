@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5056,
+            "stars": 5058,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4532,
+            "stars": 4535,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4172,
+            "stars": 4173,
             "topics": [
               "input",
               "keyboard",
@@ -267,8 +267,8 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T00:22:17Z",
-                "open_issues": 721,
+                "last_commit": "2026-09-12T19:37:40Z",
+                "open_issues": 720,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
                 "stars": 30837,
@@ -309,7 +309,7 @@
                 "open_issues": 563,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26106,
+                "stars": 26171,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:26:51.636Z",
+    "last_updated": "2026-09-13T17:42:34.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
