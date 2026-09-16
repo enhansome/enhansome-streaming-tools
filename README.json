@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5059,
+            "stars": 5060,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T07:54:29Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4545,
+            "stars": 4548,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -126,7 +126,7 @@
             "open_issues": 117,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 915,
+            "stars": 916,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T19:37:40Z",
-                "open_issues": 722,
+                "open_issues": 723,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30856,
+                "stars": 30867,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 567,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26374,
+                "stars": 26379,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:30:22.240Z",
+    "last_updated": "2026-09-16T18:28:19.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +491,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-15T10:05:58Z",
+      "last_commit": "2026-09-16T16:52:37Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "083c6d71f114a2601ebdb261f5b9036bc206c389",
+    "original_repository_sha": "f0034a56ca59ee5dac55c24059b9b84a79c0e51c",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
