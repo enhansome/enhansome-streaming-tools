@@ -15,10 +15,10 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,060 | 🐛 216 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,061 | 🐛 216 | 🌐 C++ | 📅 2026-08-01 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,548 | 🐛 12 | 🌐 C++ | 📅 2026-09-10
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,179 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,551 | 🐛 12 | 🌐 C++ | 📅 2026-09-10
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,182 | 🐛 28 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,333 | 🐛 84 | 🌐 C++ | 📅 2026-08-25
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 916 | 🐛 117 | 🌐 C | 📅 2026-08-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
@@ -57,7 +57,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 15 | 🐛 10 | 🌐 Go | 📅 2026-09-16).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 15 | 🐛 10 | 🌐 Go | 📅 2026-09-17).
 
 ## CodingFreaks Overlays
 
@@ -82,14 +82,14 @@ Anything you need for a few dollars
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,298 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,295 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-17
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 ## StreamPulse
 
-[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-16 for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
+[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
 
 ## Boltis
 
@@ -150,17 +150,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,867 | 🐛 723 | 🌐 C++ | 📅 2026-09-12 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,877 | 🐛 724 | 🌐 C++ | 📅 2026-09-17 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,867 | 🐛 723 | 🌐 C++ | 📅 2026-09-12
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 30,877 | 🐛 724 | 🌐 C++ | 📅 2026-09-17
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,379 | 🐛 567 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,394 | 🐛 567 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,379 | 🐛 567 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,394 | 🐛 567 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1237,4 +1237,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

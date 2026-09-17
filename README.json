@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5060,
+            "stars": 5061,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4548,
+            "stars": 4551,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4179,
+            "stars": 4182,
             "topics": [
               "input",
               "keyboard",
@@ -267,11 +267,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T19:37:40Z",
-                "open_issues": 723,
+                "last_commit": "2026-09-17T05:30:51Z",
+                "open_issues": 724,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30867,
+                "stars": 30877,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 567,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26379,
+                "stars": 26394,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:28:19.501Z",
+    "last_updated": "2026-09-17T18:35:36.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
