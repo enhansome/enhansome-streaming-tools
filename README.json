@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5062,
+            "stars": 5066,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4555,
+            "stars": 4558,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4184,
+            "stars": 4187,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 117,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 917,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 724,
+                "open_issues": 726,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30887,
+                "stars": 30895,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 568,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26402,
+                "stars": 26407,
                 "topics": [
                   "linux",
                   "macos",
@@ -420,7 +420,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 630,
+                "stars": 629,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:54:28.071Z",
+    "last_updated": "2026-09-19T17:28:19.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -492,7 +492,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-18T06:27:12Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 388,
