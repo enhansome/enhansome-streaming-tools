@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5066,
+            "stars": 5068,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4566,
+            "stars": 4568,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4191,
+            "stars": 4192,
             "topics": [
               "input",
               "keyboard",
@@ -102,10 +102,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T06:36:55Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1334,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 729,
+                "open_issues": 730,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30901,
+                "stars": 30907,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 568,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26422,
+                "stars": 26424,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:45:13.667Z",
+    "last_updated": "2026-09-22T18:19:49.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
