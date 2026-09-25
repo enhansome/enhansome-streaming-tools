@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5069,
+            "stars": 5070,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4192,
+            "stars": 4195,
             "topics": [
               "input",
               "keyboard",
@@ -271,7 +271,7 @@
                 "open_issues": 731,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30921,
+                "stars": 30922,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 569,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26442,
+                "stars": 26448,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:41:45.027Z",
+    "last_updated": "2026-09-25T18:55:37.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +491,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-24T09:57:57Z",
+      "last_commit": "2026-09-25T10:41:37Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "105b1296e668f8cf99088f2bb3710bdb06564bf7",
+    "original_repository_sha": "76960b70c42604d2d53dcaefed36253444ad0254",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
