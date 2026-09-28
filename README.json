@@ -78,7 +78,7 @@
             "open_issues": 28,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4194,
+            "stars": 4196,
             "topics": [
               "input",
               "keyboard",
@@ -101,7 +101,7 @@
             "id": 196756402,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-25T06:36:55Z",
+            "last_commit": "2026-09-28T06:31:58Z",
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
@@ -123,10 +123,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T07:36:39Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 918,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 735,
+                "open_issues": 736,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30920,
+                "stars": 30990,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26455,
+                "stars": 26460,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:39:53.747Z",
+    "last_updated": "2026-09-28T20:50:53.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
