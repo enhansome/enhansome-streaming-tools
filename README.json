@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5072,
+            "stars": 5073,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4580,
+            "stars": 4583,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -75,7 +75,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-07-25T17:17:05Z",
-            "open_issues": 28,
+            "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
             "stars": 4196,
@@ -105,7 +105,7 @@
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -126,7 +126,7 @@
             "open_issues": 118,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 919,
+            "stars": 920,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "camera",
                   "cmake",
@@ -271,7 +271,7 @@
                 "open_issues": 736,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30990,
+                "stars": 31013,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26460,
+                "stars": 26465,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:50:53.614Z",
+    "last_updated": "2026-09-29T19:40:21.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
