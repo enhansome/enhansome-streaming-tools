@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5073,
+            "stars": 5076,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -78,7 +78,7 @@
             "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4196,
+            "stars": 4197,
             "topics": [
               "input",
               "keyboard",
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 736,
+                "open_issues": 737,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31013,
+                "stars": 31036,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26465,
+                "stars": 26466,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:40:21.406Z",
+    "last_updated": "2026-09-30T19:39:43.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
