@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5076,
+            "stars": 5078,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4583,
+            "stars": 4585,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -271,7 +271,7 @@
                 "open_issues": 737,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31036,
+                "stars": 31047,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26466,
+                "stars": 26469,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:39:43.206Z",
+    "last_updated": "2026-10-01T19:52:12.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +491,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-25T10:41:37Z",
+      "last_commit": "2026-09-30T21:09:41Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "76960b70c42604d2d53dcaefed36253444ad0254",
+    "original_repository_sha": "1b9c8779459452fa69a18e69da29698482b37c52",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
