@@ -15,11 +15,11 @@
             "id": 250207810,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-27T07:29:26Z",
+            "last_commit": "2026-10-02T08:08:19Z",
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5078,
+            "stars": 5080,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4585,
+            "stars": 4584,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4197,
+            "stars": 4196,
             "topics": [
               "input",
               "keyboard",
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 737,
+                "open_issues": 741,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31047,
+                "stars": 31063,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26469,
+                "stars": 26476,
                 "topics": [
                   "linux",
                   "macos",
@@ -420,7 +420,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 629,
+                "stars": 630,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:52:12.767Z",
+    "last_updated": "2026-10-02T19:32:58.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +491,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-30T21:09:41Z",
+      "last_commit": "2026-10-02T15:00:48Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "1b9c8779459452fa69a18e69da29698482b37c52",
+    "original_repository_sha": "d3346375922fe78f3b7181b67675fe6ecc92f664",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
