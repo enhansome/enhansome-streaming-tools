@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "OBS Background removal https://github.com/royshil/obs-backgroundremoval#introduction",
-          "description": null,
+          "description": "royshil/obs-backgroundremoval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4584,
+            "stars": 4586,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "univrsal/input-overlay",
-          "description": null,
+          "description": "univrsal/input-overlay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "ratwithacompiler/OBS-captions-plugin",
-          "description": null,
+          "description": "ratwithacompiler/OBS-captions-plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         {
           "node_type": "item",
           "title": "OBS Move Transitions https://github.com/exeldro/obs-move-transition",
-          "description": null,
+          "description": "exeldro/obs-move-transition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
             "open_issues": 118,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 920,
+            "stars": 921,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "univrsal/spectralizer",
-          "description": null,
+          "description": "univrsal/spectralizer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "bazukas/obs-linuxbrowser",
-          "description": null,
+          "description": "bazukas/obs-linuxbrowser",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -268,10 +268,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 741,
+                "open_issues": 745,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31063,
+                "stars": 31067,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26476,
+                "stars": 26474,
                 "topics": [
                   "linux",
                   "macos",
@@ -381,7 +381,7 @@
                 "open_issues": 13,
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1345,
+                "stars": 1344,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:32:58.281Z",
+    "last_updated": "2026-10-03T05:07:34.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +491,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-02T15:00:48Z",
+      "last_commit": "2026-10-03T01:41:44Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "d3346375922fe78f3b7181b67675fe6ecc92f664",
+    "original_repository_sha": "5427bc57db163412cf903aa2a87df9afc852170a",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
