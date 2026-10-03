@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5080,
+            "stars": 5081,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -78,7 +78,7 @@
             "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4196,
+            "stars": 4197,
             "topics": [
               "input",
               "keyboard",
@@ -267,11 +267,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 745,
+                "last_commit": "2026-10-03T07:37:21Z",
+                "open_issues": 743,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31067,
+                "stars": 31074,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -309,7 +309,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26474,
+                "stars": 26476,
                 "topics": [
                   "linux",
                   "macos",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:34.007Z",
+    "last_updated": "2026-10-03T18:17:31.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,11 +491,11 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-03T01:41:44Z",
+      "last_commit": "2026-10-03T17:57:58Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 387,
+      "stars": 388,
       "topics": [
         "awesome",
         "awesome-list",
@@ -514,7 +514,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "5427bc57db163412cf903aa2a87df9afc852170a",
+    "original_repository_sha": "f52c2b341778148d34362e480ee33f0c08b6a471",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
