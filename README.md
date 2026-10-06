@@ -17,8 +17,8 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 * `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,083 | 🐛 213 | 🌐 C++ | 📅 2026-10-02 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,586 | 🐛 13 | 🌐 C++ | 📅 2026-09-10
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,200 | 🐛 27 | 🌐 C++ | 📅 2026-07-25
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,587 | 🐛 13 | 🌐 C++ | 📅 2026-09-10
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,201 | 🐛 27 | 🌐 C++ | 📅 2026-07-25
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,335 | 🐛 85 | 🌐 C++ | 📅 2026-09-28
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 921 | 🐛 118 | 🌐 C | 📅 2026-10-04
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
@@ -81,7 +81,7 @@ Anything you need for a few dollars
 ## Onion Board
 
 [Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-05 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-06 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
@@ -97,14 +97,14 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,295 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-05
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,295 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-06
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 ## StreamPulse
 
-[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02 for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
+[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06 for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
 
 ## Boltis
 
@@ -114,11 +114,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 87 | 🐛 37 | 🌐 Python | 📅 2026-10-05 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 87 | 🐛 34 | 🌐 Python | 📅 2026-10-06 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 20 | 🐛 1 | 🌐 C++ | 📅 2026-10-05 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 20 | 🐛 1 | 🌐 C++ | 📅 2026-10-06 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -175,17 +175,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,091 | 🐛 744 | 🌐 C++ | 📅 2026-10-03 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,097 | 🐛 743 | 🌐 C++ | 📅 2026-10-03 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,091 | 🐛 744 | 🌐 C++ | 📅 2026-10-03
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,097 | 🐛 743 | 🌐 C++ | 📅 2026-10-03
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,483 | 🐛 571 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,484 | 🐛 571 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,483 | 🐛 571 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,484 | 🐛 571 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -470,6 +470,11 @@ It transcribes speech, lets you edit the text and timing, pick a caption style a
 
 [Remove Music from Video](https://remove-audio.com/tools/remove-music-from-video) by Remove Audio takes the music out of a stream clip and keeps only the voice, for example to rescue a clip that was muted or flagged for copyrighted music before you post it to YouTube or TikTok. Game sound goes with the music, since only speech is kept.
 It runs an AI separation model in your desktop browser on WebGPU, so the clip is not uploaded. Free with no account and no watermark for clips up to 15 minutes; an optional paid Cloud mode handles longer videos and phones.
+
+## RaidPort
+
+[RaidPort](https://raidport.tv/?utm_source=github\&utm_medium=referral\&utm_campaign=building\&utm_content=awesome-streaming-tools) is a Twitch channel built as a live gameshow for raids, made for small streamers.
+Raid the channel at the end of your stream and your name goes on a wheel that chat spins; whoever it lands on gets raided by the whole channel. Free, no login, nothing to install and no bot in your chat. Opens fall 2026, signups are open now.
 
 # Twitch Extensions
 
@@ -1294,4 +1299,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
