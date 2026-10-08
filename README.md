@@ -15,11 +15,11 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,087 | 🐛 214 | 🌐 C++ | 📅 2026-10-02 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,088 | 🐛 214 | 🌐 C++ | 📅 2026-10-02 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,592 | 🐛 13 | 🌐 C++ | 📅 2026-09-10
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,595 | 🐛 14 | 🌐 C++ | 📅 2026-09-10
 * `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,204 | 🐛 27 | 🌐 C++ | 📅 2026-07-25
-* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,335 | 🐛 85 | 🌐 C++ | 📅 2026-09-28
+* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,334 | 🐛 85 | 🌐 C++ | 📅 2026-09-28
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 922 | 🐛 118 | 🌐 C | 📅 2026-10-04
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
@@ -57,7 +57,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 15 | 🐛 21 | 🌐 Go | 📅 2026-10-07).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 15 | 🐛 21 | 🌐 Go | 📅 2026-10-08).
 
 ## CodingFreaks Overlays
 
@@ -69,6 +69,15 @@ It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions acr
 unified feed you can pipe into OBS/Streamlabs as a live overlay or dock, with built-in neural
 text-to-speech, real-time chat translation, alerts overlays and moderation/bot tools.
 
+## Ambiant Pixel
+
+[Ambiant Pixel](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) makes animated pixel art scenes for OBS Studio and Streamlabs: Starting Soon, Be Right Back, Ending and Just Chatting with a webcam frame, as video loops and as an HTML Browser Source that keeps running live with your own title. The stream packs are paid ($8 per theme); the [free Jungle wallpaper](https://ambiantpixel.itch.io/jungle-free) is a single HTML file that also works as a Browser Source background.
+
+## GGCombat Esports Overlay
+
+[GGCombat Esports Overlay](https://ggcombat.com/en/widgets) is a free 800x140 browser source for casters and watch-party streams of pro League of Legends, Dota 2, Mobile Legends and Arena of Valor matches.
+Paste a match link into the generator, add the overlay URL as an OBS Browser Source (800 x 140), and it shows both teams, the live score (or Bo1/Bo3/Bo5 before the start) and an Elo-based win-chance bar, reloading every 30 seconds. No account, five languages. The panel carries a small "ggcombat.com" credit line.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -78,14 +87,19 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## ClipKeeper
+
+[ClipKeeper](https://github.com/Alukkart/ClipKeeper) ⭐ 6 | 🐛 3 | 🌐 C# | 📅 2026-10-07 is a free, open source (MIT) tray companion for OBS on Windows 10/11 for people who clip with the replay buffer. It watches OBS through obs-websocket and fixes what silently breaks a recording — a source losing its audio device after a driver update, a crashed replay buffer, audio that never reaches OBS, a black capture — and checks every saved clip. It also sorts clips into a library by game, with a trim editor and one-click export for Discord.
+Built with AI assistance (Claude Code).
+
 ## Onion Board
 
 [Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-07 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-08 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-07 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-08 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
 When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
@@ -114,11 +128,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 92 | 🐛 36 | 🌐 Python | 📅 2026-10-07 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 93 | 🐛 37 | 🌐 Python | 📅 2026-10-08 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 21 | 🐛 1 | 🌐 C++ | 📅 2026-10-06 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 22 | 🐛 1 | 🌐 C++ | 📅 2026-10-08 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -175,17 +189,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,113 | 🐛 742 | 🌐 C++ | 📅 2026-10-03 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,131 | 🐛 746 | 🌐 C++ | 📅 2026-10-03 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,113 | 🐛 742 | 🌐 C++ | 📅 2026-10-03
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,131 | 🐛 746 | 🌐 C++ | 📅 2026-10-03
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,489 | 🐛 571 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,491 | 🐛 570 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,489 | 🐛 571 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,491 | 🐛 570 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -285,7 +299,7 @@ You can use [MultiTwitch](http://www.multitwitch.tv) to watch any number of [Twi
 Simply put the streams you want in the url.
 [MultiTwitch](http://www.multitwitch.tv) will optimize the layout of streams to give you the maximum size on each of the streams,
 while maintaining aspect ratio.
-Source <https://github.com/bhamrick/multitwitch> ⭐ 630 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
+Source <https://github.com/bhamrick/multitwitch> ⭐ 629 | 🐛 33 | 🌐 JavaScript | 📅 2022-02-05
 
 ## WatchAllNow
 
@@ -1309,4 +1323,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

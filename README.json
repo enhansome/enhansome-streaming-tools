@@ -19,7 +19,7 @@
             "open_issues": 214,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5087,
+            "stars": 5088,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T07:54:29Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4592,
+            "stars": 4595,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -105,7 +105,7 @@
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -220,6 +220,54 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ClipKeeper",
+              "description": "is a free, open source (MIT) tray companion for OBS on Windows 10/11 for people who clip with the replay buffer. It watches OBS through obs-websocket and fixes what silently breaks a recording — a source losing its audio device after a driver update, a crashed replay buffer, audio that never reaches OBS, a black capture — and checks every saved clip. It also sorts clips into a library by game, with a trim editor and one-click export for Discord. Built with AI assistance (Claude Code).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Keeps your OBS recording from breaking and your clips in order: guard, library by game, trim editor. Windows, unofficial.",
+                "homepage": "https://alukkart.github.io/ClipKeeper/",
+                "id": 1406294322,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-07T18:15:59Z",
+                "open_issues": 3,
+                "owner": "Alukkart",
+                "repo": "ClipKeeper",
+                "stars": 6,
+                "topics": [
+                  "clip-editor",
+                  "clips",
+                  "csharp",
+                  "ffmpeg",
+                  "game-clips",
+                  "gaming",
+                  "obs",
+                  "obs-studio",
+                  "obs-websocket",
+                  "open-source",
+                  "recording",
+                  "replay",
+                  "replay-buffer",
+                  "streaming",
+                  "tray-app",
+                  "video-trimmer",
+                  "windows",
+                  "windows-app",
+                  "wpf"
+                ]
+              },
+              "first_seen": "2026-10-08T20:11:57.300Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ClipKeeper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Webcam Settings",
               "description": "is an open source cross-platform C++/Qt desktop app and CLI for discovering and adjusting webcam controls without OBS or vendor software. It verifies camera-accepted values, saves reusable profiles, and can identify applications that are holding a camera open.",
               "children": [],
@@ -268,10 +316,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T07:37:21Z",
-                "open_issues": 742,
+                "open_issues": 746,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31113,
+                "stars": 31131,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -306,10 +354,10 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 571,
+                "open_issues": 570,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26489,
+                "stars": 26491,
                 "topics": [
                   "linux",
                   "macos",
@@ -420,7 +468,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 630,
+                "stars": 629,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -483,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:12:38.681Z",
+    "last_updated": "2026-10-08T20:11:57.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -491,7 +539,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-07T11:31:34Z",
+      "last_commit": "2026-10-08T13:21:02Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -514,7 +562,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "0d9f6ce1cae11ce9592086df1798bdcebb022690",
+    "original_repository_sha": "3b84108fde0f7a91340ec947856f65bb68fb6178",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
