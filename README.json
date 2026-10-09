@@ -19,7 +19,7 @@
             "open_issues": 214,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5088,
+            "stars": 5095,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4595,
+            "stars": 4594,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4204,
+            "stars": 4206,
             "topics": [
               "input",
               "keyboard",
@@ -101,7 +101,7 @@
             "id": 196756402,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T06:31:58Z",
+            "last_commit": "2026-10-09T09:18:27Z",
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
@@ -126,7 +126,7 @@
             "open_issues": 118,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 922,
+            "stars": 923,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -230,7 +230,7 @@
                 "id": 1406294322,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-07T18:15:59Z",
+                "last_commit": "2026-10-09T08:27:58Z",
                 "open_issues": 3,
                 "owner": "Alukkart",
                 "repo": "ClipKeeper",
@@ -315,11 +315,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T07:37:21Z",
+                "last_commit": "2026-10-09T14:50:54Z",
                 "open_issues": 746,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31131,
+                "stars": 31140,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -357,7 +357,7 @@
                 "open_issues": 570,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26491,
+                "stars": 26490,
                 "topics": [
                   "linux",
                   "macos",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:11:57.300Z",
+    "last_updated": "2026-10-09T19:50:19.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -540,7 +540,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-08T13:21:02Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 388,
