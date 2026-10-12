@@ -15,11 +15,11 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,096 | 🐛 213 | 🌐 C++ | 📅 2026-10-11 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,097 | 🐛 213 | 🌐 C++ | 📅 2026-10-11 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,601 | 🐛 14 | 🌐 C++ | 📅 2026-10-10
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,602 | 🐛 14 | 🌐 C++ | 📅 2026-10-10
 * `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,208 | 🐛 26 | 🌐 C++ | 📅 2026-10-11
-* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,334 | 🐛 85 | 🌐 C++ | 📅 2026-10-09
+* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,335 | 🐛 85 | 🌐 C++ | 📅 2026-10-09
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 923 | 🐛 118 | 🌐 C | 📅 2026-10-04
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
@@ -51,13 +51,13 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 ## Fikir Overlay
 
-[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
+[Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-28 is a free open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.
 
 ## All-Chat
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 15 | 🐛 11 | 🌐 Go | 📅 2026-10-11).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 16 | 🐛 42 | 🌐 Go | 📅 2026-10-12).
 
 ## CodingFreaks Overlays
 
@@ -89,7 +89,7 @@ Anything you need for a few dollars
 
 ## Vidora
 
-[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-10-10.
+[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-10-12.
 
 ## ClipKeeper
 
@@ -99,11 +99,11 @@ Built with AI assistance (Claude Code).
 ## Onion Board
 
 [Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-11 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-12 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-09 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-12 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
 When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
@@ -132,7 +132,7 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 94 | 🐛 36 | 🌐 Python | 📅 2026-10-11 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 95 | 🐛 37 | 🌐 Python | 📅 2026-10-11 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
@@ -193,10 +193,10 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,153 | 🐛 743 | 🌐 C++ | 📅 2026-10-10 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,166 | 🐛 741 | 🌐 C++ | 📅 2026-10-12 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,153 | 🐛 743 | 🌐 C++ | 📅 2026-10-10
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,166 | 🐛 741 | 🌐 C++ | 📅 2026-10-12
 
 ## Cool Retro Term
 
@@ -1335,7 +1335,9 @@ $juancarlospaco
 :star: [@Goldnwolf](https://github.com/Goldnwolf "2026-09-18")
 :star: [@frolicchris](https://github.com/frolicchris "2026-10-03")
 :star: [@BloodDragooner2](https://github.com/BloodDragooner2 "2026-10-10")
+:star: [@yofriendfromschool1](https://github.com/yofriendfromschool1 "2026-10-11")
+:star: [@shivanshjain456](https://github.com/shivanshjain456 "2026-10-12")
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
