@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5097,
+            "stars": 5099,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T03:40:01Z",
+            "last_commit": "2026-10-13T18:53:12Z",
             "open_issues": 14,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4602,
+            "stars": 4606,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -75,7 +75,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-11T08:02:12Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "univrsal",
             "repo": "input-overlay",
             "stars": 4208,
@@ -105,7 +105,7 @@
             "open_issues": 85,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1335,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -123,10 +123,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-04T06:33:23Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 923,
+            "stars": 924,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -214,6 +214,85 @@
       "title": "OBS Plugins"
     },
     {
+      "description": "Streamelements is a Free service that provides Overlays, Alerts, Monetization, Merchandasing Store, Chat Bots, Spam Filters, Stats, Chat Commands, Media Requests (viewers can musicalize the stream via Youtube links), Stats and more for streamers.\nAll the Overlays are provided via 1 URL link that you use on your OBS Studio \"Browser Source\" (). Overlays has an online web visual editor with a lot of free themes to use and remix.\nOverlays and Alerts are important because is the only visual way to know when someone is giving you money, like Donations, Bits, Cheers, etc and also important events like Raids with lots of new viewers.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TalkAStranger Stream Overlays",
+              "description": "is a free, open-source real-time browser source widget for OBS Studio and Streamlabs. It renders live alerts, animated confetti/gift drops, and viewer engagement events with transparent backgrounds and zero external account setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free open-source OBS Studio and Streamlabs overlay widgets for TalkAStranger — display live community alerts and grow your audience with SEO-driven stream overlays.",
+                "homepage": null,
+                "id": 1416254124,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-13T01:38:40Z",
+                "open_issues": 2,
+                "owner": "umairkhan2582",
+                "repo": "talkastranger-stream-overlays",
+                "stars": 0,
+                "topics": [
+                  "browser-source",
+                  "obs-overlay",
+                  "obs-studio",
+                  "stream-alerts",
+                  "streaming-widgets",
+                  "streamlabs"
+                ]
+              },
+              "first_seen": "2026-10-13T20:23:00.326Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TalkAStranger Stream Overlays"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fikir Overlay",
+              "description": "is a free open source Node.js overlay that lets viewers submit ideas via chat commands (, , and 30+ language triggers) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on the OBS overlay. Includes a streamer control panel, stats dashboard, multi-language UI (10 languages), rate limiting, profanity filter, and SQLite storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "💡 Multi-platform live stream idea overlay for YouTube, Twitch & Kick — 30+ language triggers, SQLite, dashboard, OBS overlay with post-it notes",
+                "homepage": null,
+                "id": 1169338511,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-02-28T16:51:42Z",
+                "open_issues": 0,
+                "owner": "EEspinoso",
+                "repo": "fikir-overlay",
+                "stars": 6,
+                "topics": [
+                  "kick",
+                  "live-stream",
+                  "nodejs",
+                  "obs-overlay",
+                  "open-source",
+                  "overlay",
+                  "streaming",
+                  "twitch",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-10-13T20:23:00.326Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fikir Overlay"
+        }
+      ],
+      "title": "Overlays"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -230,7 +309,7 @@
                 "id": 1406294322,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T08:27:58Z",
+                "last_commit": "2026-10-13T15:47:28Z",
                 "open_issues": 3,
                 "owner": "Alukkart",
                 "repo": "ClipKeeper",
@@ -282,7 +361,7 @@
                 "open_issues": 0,
                 "owner": "tadas-subonis",
                 "repo": "webcam-settings",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "camera",
                   "cmake",
@@ -316,10 +395,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T12:34:07Z",
-                "open_issues": 741,
+                "open_issues": 742,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31166,
+                "stars": 31179,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -357,7 +436,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26493,
+                "stars": 26495,
                 "topics": [
                   "linux",
                   "macos",
@@ -531,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:16:11.271Z",
+    "last_updated": "2026-10-13T20:23:00.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -539,8 +618,8 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-12T02:42:57Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-13T14:19:07Z",
+      "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 391,
@@ -562,7 +641,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "8809676a9e5e7f5378bc5d5aada62a9bc74c8be6",
+    "original_repository_sha": "35768063cadfb7f4d08bbded0617923cb78b270f",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
