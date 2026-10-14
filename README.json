@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5099,
+            "stars": 5100,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T18:53:12Z",
+            "last_commit": "2026-10-14T01:18:32Z",
             "open_issues": 14,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4606,
+            "stars": 4610,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -75,10 +75,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-11T08:02:12Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4208,
+            "stars": 4213,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 119,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 924,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -190,7 +190,7 @@
             "id": 1317772054,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-13T01:36:28Z",
+            "last_commit": "2026-10-14T01:45:20Z",
             "open_issues": 0,
             "owner": "askq-git",
             "repo": "kori",
@@ -225,8 +225,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Free open-source OBS Studio and Streamlabs overlay widgets for TalkAStranger — display live community alerts and grow your audience with SEO-driven stream overlays.",
-                "homepage": null,
+                "description": "Free open-source OBS Studio and Streamlabs overlay widgets for TalkAStranger.com — display live community alerts and grow your audience with SEO-driven stream overlays.",
+                "homepage": "https://talkastranger.com",
                 "id": 1416254124,
                 "language": "JavaScript",
                 "license": "MIT",
@@ -234,14 +234,15 @@
                 "open_issues": 2,
                 "owner": "umairkhan2582",
                 "repo": "talkastranger-stream-overlays",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "browser-source",
                   "obs-overlay",
                   "obs-studio",
                   "stream-alerts",
                   "streaming-widgets",
-                  "streamlabs"
+                  "streamlabs",
+                  "talkastranger"
                 ]
               },
               "first_seen": "2026-10-13T20:23:00.326Z"
@@ -394,11 +395,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T12:34:07Z",
-                "open_issues": 742,
+                "last_commit": "2026-10-13T20:55:23Z",
+                "open_issues": 740,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31179,
+                "stars": 31190,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -436,7 +437,7 @@
                 "open_issues": 571,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26495,
+                "stars": 26501,
                 "topics": [
                   "linux",
                   "macos",
@@ -610,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:23:00.326Z",
+    "last_updated": "2026-10-14T18:57:24.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
