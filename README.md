@@ -15,9 +15,9 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,101 | 🐛 213 | 🌐 C++ | 📅 2026-10-11 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,100 | 🐛 213 | 🌐 C++ | 📅 2026-10-11 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,618 | 🐛 17 | 🌐 C++ | 📅 2026-10-16
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,623 | 🐛 17 | 🌐 C++ | 📅 2026-10-16
 * `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,216 | 🐛 26 | 🌐 C++ | 📅 2026-10-14
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,337 | 🐛 85 | 🌐 C++ | 📅 2026-10-09
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 927 | 🐛 119 | 🌐 C | 📅 2026-10-04
@@ -61,7 +61,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 16 | 🐛 41 | 🌐 Go | 📅 2026-10-16).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 16 | 🐛 37 | 🌐 Go | 📅 2026-10-17).
 
 ## CodingFreaks Overlays
 
@@ -98,7 +98,7 @@ Built with AI assistance (Claude Code).
 
 ## Vidora
 
-[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-10-16.
+[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-10-17.
 
 ## ClipKeeper
 
@@ -108,11 +108,11 @@ Built with AI assistance (Claude Code).
 ## Onion Board
 
 [Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-10-16 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-17 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-16 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-17 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
 When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
@@ -124,14 +124,14 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,295 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-15
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,294 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-15
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
 
 ## StreamPulse
 
-[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-14 for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
+[StreamPulse](https://streampulse.fr) is a free, [open source browser extension](https://github.com/AlexisAMZ/streampulse-extension) for Chrome, Firefox and Edge that shows which Twitch and Kick streamers you follow are live, sends desktop alerts when they go live, and claims channel points and Drops automatically while you watch. It needs no account and no Twitch login, and works alongside BetterTTV, 7TV and FrankerFaceZ.
 
 ## Boltis
 
@@ -141,11 +141,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 106 | 🐛 36 | 🌐 Python | 📅 2026-10-16 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 112 | 🐛 34 | 🌐 Python | 📅 2026-10-17 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 22 | 🐛 1 | 🌐 C++ | 📅 2026-10-16 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2026-10-17 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -202,17 +202,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,219 | 🐛 742 | 🌐 C++ | 📅 2026-10-13 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,223 | 🐛 743 | 🌐 C++ | 📅 2026-10-16 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,219 | 🐛 742 | 🌐 C++ | 📅 2026-10-13
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,223 | 🐛 743 | 🌐 C++ | 📅 2026-10-16
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,507 | 🐛 573 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,505 | 🐛 573 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,507 | 🐛 573 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,505 | 🐛 573 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -1355,4 +1355,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
