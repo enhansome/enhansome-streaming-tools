@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5100,
+            "stars": 5101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,8 +36,8 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T23:35:36Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-18T10:29:29Z",
+            "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
             "stars": 4623,
@@ -78,7 +78,7 @@
             "open_issues": 26,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4216,
+            "stars": 4218,
             "topics": [
               "input",
               "keyboard",
@@ -289,6 +289,50 @@
           "description": null,
           "node_type": "group",
           "title": "Fikir Overlay"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tramevia Dock",
+              "description": "is a free, open-source (AGPL-3.0) set of OBS docks and overlays for streamers who go live on Twitch, Kick, YouTube and TikTok at the same time. The docks give you one chat for every platform (reply or send to several channels at once), one event feed, the community list and the stream title and category for every channel at once. The overlays are browser sources: chat, featured message, alerts with ten animated styles and a live viewer counter. It runs on your own PC (Windows, macOS, Linux) or in one click on Railway, and your logins stay on your own server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted multistream control room for OBS: one chat, one community list and one title/category/tags editor for Twitch, Kick, YouTube and TikTok. Local-first, FR/EN.",
+                "homepage": null,
+                "id": 1408761700,
+                "language": "JavaScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-16T12:01:41Z",
+                "open_issues": 0,
+                "owner": "Tramevia",
+                "repo": "Tramevia-Dock",
+                "stars": 2,
+                "topics": [
+                  "chat-overlay",
+                  "eventsub",
+                  "kick",
+                  "multichat",
+                  "multistream",
+                  "nodejs",
+                  "obs",
+                  "obs-dock",
+                  "obs-studio",
+                  "self-hosted",
+                  "streamer-tools",
+                  "streaming",
+                  "tiktok-live",
+                  "twitch",
+                  "youtube-live"
+                ]
+              },
+              "first_seen": "2026-10-18T17:34:10.390Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tramevia Dock"
         }
       ],
       "title": "Overlays"
@@ -399,7 +443,7 @@
                 "open_issues": 743,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31223,
+                "stars": 31233,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -437,7 +481,7 @@
                 "open_issues": 573,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26505,
+                "stars": 26507,
                 "topics": [
                   "linux",
                   "macos",
@@ -611,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:33:07.712Z",
+    "last_updated": "2026-10-18T17:34:10.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -619,8 +663,8 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-16T10:47:09Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-17T21:11:39Z",
+      "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 390,
@@ -642,7 +686,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "e89350744c132a85357119d1d7b7f81948cf1813",
+    "original_repository_sha": "87932e07f7b39d2b4942f3bb8b5f574ccf3ffb0b",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
