@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5101,
+            "stars": 5105,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,7 +36,7 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T07:03:15Z",
+            "last_commit": "2026-10-20T01:49:43Z",
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
@@ -75,10 +75,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-14T21:37:49Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4219,
+            "stars": 4223,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 119,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 927,
+            "stars": 929,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -222,11 +222,11 @@
             "id": 1425871545,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T18:10:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-20T18:04:28Z",
+            "open_issues": 0,
             "owner": "RandyNorthrup",
             "repo": "meta-g-link-direct",
-            "stars": 0,
+            "stars": 2,
             "topics": [
               "bluetooth",
               "cpp20",
@@ -476,10 +476,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-16T21:46:57Z",
-                "open_issues": 745,
+                "open_issues": 746,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31248,
+                "stars": 31270,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -517,7 +517,7 @@
                 "open_issues": 573,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26515,
+                "stars": 26520,
                 "topics": [
                   "linux",
                   "macos",
@@ -628,7 +628,7 @@
                 "open_issues": 33,
                 "owner": "bhamrick",
                 "repo": "multitwitch",
-                "stars": 629,
+                "stars": 628,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:04.215Z"
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:14:18.062Z",
+    "last_updated": "2026-10-20T18:45:46.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,7 +699,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-19T19:55:12Z",
+      "last_commit": "2026-10-20T17:29:46Z",
       "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -722,7 +722,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "578a48c222accdde5a247a6bd30655615f3dcbb5",
+    "original_repository_sha": "b274d0af221d8e43de85e0f7cb9e7044df51d162",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
