@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5108,
+            "stars": 5112,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T07:36:42Z",
+            "last_commit": "2026-10-22T00:13:17Z",
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4627,
+            "stars": 4633,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 27,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4224,
+            "stars": 4227,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 119,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 930,
+            "stars": 931,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -180,6 +180,42 @@
         },
         {
           "node_type": "item",
+          "title": "Meta G Link Direct https://github.com/RandyNorthrup/meta-g-link-direct",
+          "description": "Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Use Ray-Ban Meta (Gen 2) glasses as a live camera in OBS Studio on Windows. Direct over a Wi-Fi network the glasses host: no phone, no router setup.",
+            "homepage": null,
+            "id": 1425871545,
+            "language": "C++",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T02:07:14Z",
+            "open_issues": 0,
+            "owner": "RandyNorthrup",
+            "repo": "meta-g-link-direct",
+            "stars": 3,
+            "topics": [
+              "bluetooth",
+              "cpp20",
+              "first-person-camera",
+              "hevc",
+              "live-streaming",
+              "meta-glasses",
+              "obs",
+              "obs-plugin",
+              "obs-studio",
+              "ray-ban-meta",
+              "reverse-engineering",
+              "smart-glasses",
+              "wifi",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-10-19T20:14:18.062Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kori https://github.com/askq-git/kori",
           "description": "Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.",
           "children": [],
@@ -209,42 +245,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Meta G Link Direct https://github.com/RandyNorthrup/meta-g-link-direct",
-          "description": "Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Use Ray-Ban Meta (Gen 2) glasses as a live camera in OBS Studio on Windows. Direct over a Wi-Fi network the glasses host: no phone, no router setup.",
-            "homepage": null,
-            "id": 1425871545,
-            "language": "C++",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T02:07:14Z",
-            "open_issues": 0,
-            "owner": "RandyNorthrup",
-            "repo": "meta-g-link-direct",
-            "stars": 2,
-            "topics": [
-              "bluetooth",
-              "cpp20",
-              "first-person-camera",
-              "hevc",
-              "live-streaming",
-              "meta-glasses",
-              "obs",
-              "obs-plugin",
-              "obs-studio",
-              "ray-ban-meta",
-              "reverse-engineering",
-              "smart-glasses",
-              "wifi",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-10-19T20:14:18.062Z"
         }
       ],
       "title": "OBS Plugins"
@@ -340,7 +340,7 @@
                 "id": 1408761700,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T23:25:46Z",
+                "last_commit": "2026-10-22T15:08:36Z",
                 "open_issues": 0,
                 "owner": "Tramevia",
                 "repo": "Tramevia-Dock",
@@ -475,11 +475,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T21:46:57Z",
-                "open_issues": 748,
+                "last_commit": "2026-10-22T15:35:35Z",
+                "open_issues": 739,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31280,
+                "stars": 31292,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -517,7 +517,7 @@
                 "open_issues": 573,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26523,
+                "stars": 26524,
                 "topics": [
                   "linux",
                   "macos",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:58:11.471Z",
+    "last_updated": "2026-10-22T18:52:34.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,11 +699,11 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-20T17:29:46Z",
+      "last_commit": "2026-10-22T09:16:56Z",
       "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 390,
+      "stars": 391,
       "topics": [
         "awesome",
         "awesome-list",
@@ -722,7 +722,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "b274d0af221d8e43de85e0f7cb9e7044df51d162",
+    "original_repository_sha": "27a42b7edbbfb357187bc42f323d82eb9b4c1a06",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
