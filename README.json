@@ -15,11 +15,11 @@
             "id": 250207810,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T01:13:00Z",
+            "last_commit": "2026-10-24T09:29:30Z",
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5115,
+            "stars": 5116,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4637,
+            "stars": 4643,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -74,11 +74,11 @@
             "id": 99977220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T21:37:49Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-24T16:20:07Z",
+            "open_issues": 21,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4230,
+            "stars": 4232,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 86,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1339,
+            "stars": 1340,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -123,10 +123,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T08:52:26Z",
-            "open_issues": 120,
+            "open_issues": 121,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 931,
+            "stars": 933,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "RandyNorthrup",
             "repo": "meta-g-link-direct",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "bluetooth",
               "cpp20",
@@ -476,10 +476,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-22T15:35:35Z",
-                "open_issues": 739,
+                "open_issues": 740,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31304,
+                "stars": 31310,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -514,10 +514,10 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 573,
+                "open_issues": 574,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26526,
+                "stars": 26528,
                 "topics": [
                   "linux",
                   "macos",
@@ -589,7 +589,7 @@
                 "open_issues": 13,
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1345,
+                "stars": 1344,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:44:52.280Z",
+    "last_updated": "2026-10-24T17:37:54.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,7 +699,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-23T10:44:17Z",
+      "last_commit": "2026-10-24T01:45:29Z",
       "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -722,7 +722,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "28a8e1852bf964b525c8d642ac310b559f1d99c8",
+    "original_repository_sha": "7568e8bca289a7201b8b3b61b2a582fd3ed13659",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
