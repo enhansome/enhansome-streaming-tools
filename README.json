@@ -15,11 +15,11 @@
             "id": 250207810,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-24T09:29:30Z",
-            "open_issues": 216,
+            "last_commit": "2026-10-25T12:58:52Z",
+            "open_issues": 217,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5116,
+            "stars": 5117,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4643,
+            "stars": 4645,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -74,11 +74,11 @@
             "id": 99977220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-24T16:20:07Z",
+            "last_commit": "2026-10-25T15:02:20Z",
             "open_issues": 21,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4232,
+            "stars": 4237,
             "topics": [
               "input",
               "keyboard",
@@ -102,10 +102,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-09T09:18:27Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1340,
+            "stars": 1341,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -123,10 +123,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T08:52:26Z",
-            "open_issues": 121,
+            "open_issues": 123,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 933,
+            "stars": 934,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -475,11 +475,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T15:35:35Z",
-                "open_issues": 740,
+                "last_commit": "2026-10-25T15:52:45Z",
+                "open_issues": 738,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31310,
+                "stars": 31320,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -514,10 +514,10 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 574,
+                "open_issues": 575,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26528,
+                "stars": 26533,
                 "topics": [
                   "linux",
                   "macos",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:37:54.269Z",
+    "last_updated": "2026-10-25T17:53:05.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,11 +699,11 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-24T01:45:29Z",
+      "last_commit": "2026-10-25T12:43:19Z",
       "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 391,
+      "stars": 392,
       "topics": [
         "awesome",
         "awesome-list",
@@ -722,7 +722,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "7568e8bca289a7201b8b3b61b2a582fd3ed13659",
+    "original_repository_sha": "c76c4342a639f25e42f7ddbcf86e94a63e8e308d",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
