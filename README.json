@@ -19,7 +19,7 @@
             "open_issues": 217,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5120,
+            "stars": 5125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 12,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4648,
+            "stars": 4649,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -75,10 +75,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-26T06:42:28Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4238,
+            "stars": 4240,
             "topics": [
               "input",
               "keyboard",
@@ -475,11 +475,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T15:52:45Z",
-                "open_issues": 738,
+                "last_commit": "2026-10-26T21:20:56Z",
+                "open_issues": 740,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31328,
+                "stars": 31341,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -514,10 +514,10 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 575,
+                "open_issues": 577,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26537,
+                "stars": 26543,
                 "topics": [
                   "linux",
                   "macos",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:10:50.893Z",
+    "last_updated": "2026-10-27T19:40:41.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
