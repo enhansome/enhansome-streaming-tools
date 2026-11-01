@@ -19,7 +19,7 @@
             "open_issues": 217,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5135,
+            "stars": 5136,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -74,11 +74,11 @@
             "id": 99977220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-29T20:49:41Z",
+            "last_commit": "2026-11-01T10:11:32Z",
             "open_issues": 23,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4253,
+            "stars": 4256,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 87,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1343,
+            "stars": 1344,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -191,7 +191,7 @@
             "language": "C++",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-21T02:07:14Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "RandyNorthrup",
             "repo": "meta-g-link-direct",
             "stars": 5,
@@ -479,7 +479,7 @@
                 "open_issues": 740,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31379,
+                "stars": 31384,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -517,7 +517,7 @@
                 "open_issues": 576,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26547,
+                "stars": 26548,
                 "topics": [
                   "linux",
                   "macos",
@@ -589,7 +589,7 @@
                 "open_issues": 13,
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:48:06.249Z",
+    "last_updated": "2026-11-01T19:13:33.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -700,7 +700,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-26T13:37:33Z",
-      "open_issues": 4,
+      "open_issues": 7,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 392,
