@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5139,
+            "stars": 5143,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4663,
+            "stars": 4668,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 21,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4263,
+            "stars": 4264,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 87,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1344,
+            "stars": 1346,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -194,7 +194,7 @@
             "open_issues": 2,
             "owner": "RandyNorthrup",
             "repo": "meta-g-link-direct",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "bluetooth",
               "cpp20",
@@ -340,7 +340,7 @@
                 "id": 1408761700,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T15:34:45Z",
+                "last_commit": "2026-11-05T14:29:14Z",
                 "open_issues": 0,
                 "owner": "Tramevia",
                 "repo": "Tramevia-Dock",
@@ -476,10 +476,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-02T23:46:53Z",
-                "open_issues": 736,
+                "open_issues": 737,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31417,
+                "stars": 31426,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -517,7 +517,7 @@
                 "open_issues": 576,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26551,
+                "stars": 26555,
                 "topics": [
                   "linux",
                   "macos",
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:57:19.981Z",
+    "last_updated": "2026-11-05T21:14:51.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,11 +699,11 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-03T20:56:35Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-05T19:36:22Z",
+      "open_issues": 11,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "awesome",
         "awesome-list",
@@ -722,7 +722,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "625256966e17abd6b798d0f64240c5e014bf9484",
+    "original_repository_sha": "67c22548b43f542202bcea57dc5d2d608386ba93",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
