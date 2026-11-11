@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5154,
+            "stars": 5159,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4687,
+            "stars": 4691,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4276,
+            "stars": 4280,
             "topics": [
               "input",
               "keyboard",
@@ -213,6 +213,33 @@
             ]
           },
           "first_seen": "2026-10-19T20:14:18.062Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OBS IRL Control https://github.com/gleem-gg/obs-irl-control",
+          "description": "Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native OBS Studio plugin that switches scenes based on IRL stream health (srtrelay / Belabox Cloud), based on IRL Control",
+            "homepage": "https://gleem.gg/irl-sidekick",
+            "id": 1393893983,
+            "language": "C++",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-05T16:47:12Z",
+            "open_issues": 0,
+            "owner": "gleem-gg",
+            "repo": "obs-irl-control",
+            "stars": 3,
+            "topics": [
+              "belabox",
+              "irl",
+              "obs-plugin",
+              "obs-studio",
+              "srt"
+            ]
+          },
+          "first_seen": "2026-11-11T21:34:48.569Z"
         },
         {
           "node_type": "item",
@@ -369,6 +396,93 @@
           "description": null,
           "node_type": "group",
           "title": "Tramevia Dock"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "send21 Stream Tips",
+              "description": "is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Stream tip alerts: viewers tip with a crypto pay link, verified webhooks pop alerts in your OBS overlay. Built on send21.",
+                "homepage": "https://send21.io/",
+                "id": 1425884272,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-20T20:01:22Z",
+                "open_issues": 0,
+                "owner": "send21io",
+                "repo": "send21-stream-tips",
+                "stars": 0,
+                "topics": [
+                  "crypto-payments",
+                  "donations",
+                  "lightning",
+                  "obs",
+                  "send21",
+                  "streaming",
+                  "twitch",
+                  "typescript",
+                  "webhooks"
+                ]
+              },
+              "first_seen": "2026-11-11T21:34:48.569Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "send21 Stream Tips"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CrossChat",
+              "description": "is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments). Its chat, featured message, viewer counter and alert widgets are OBS Browser Sources with a theme editor. It runs on your own PC (Windows, macOS, Linux) with no account, server or telemetry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Every stream chat in one window for OBS, Streamlabs, vMix, XSplit or Meld, on Windows, Mac and Linux: read and reply to Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble; moderate 5 of them. On-stream chat, alerts, viewer counts, custom logos, read-aloud, Discord posts, phone companion. Signed installer. Runs on your PC, no account.",
+                "homepage": null,
+                "id": 1441150407,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-08T23:59:05Z",
+                "open_issues": 1,
+                "owner": "RandyNorthrup",
+                "repo": "crosschat-obs",
+                "stars": 0,
+                "topics": [
+                  "chat-moderation",
+                  "chat-overlay",
+                  "chrome-extension",
+                  "facebook-live",
+                  "instagram-live",
+                  "kick",
+                  "linux",
+                  "live-streaming",
+                  "macos",
+                  "multichat",
+                  "multistream",
+                  "obs",
+                  "obs-studio",
+                  "rumble",
+                  "streamer-tools",
+                  "streamlabs",
+                  "tiktok",
+                  "twitch",
+                  "windows",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-11-11T21:34:48.569Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CrossChat"
         }
       ],
       "title": "Overlays"
@@ -476,10 +590,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T22:10:24Z",
-                "open_issues": 748,
+                "open_issues": 747,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31497,
+                "stars": 31513,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -517,7 +631,7 @@
                 "open_issues": 578,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26566,
+                "stars": 26565,
                 "topics": [
                   "linux",
                   "macos",
@@ -691,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:02:03.346Z",
+    "last_updated": "2026-11-11T21:34:48.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -699,8 +813,8 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-10T16:55:49Z",
-      "open_issues": 15,
+      "last_commit": "2026-11-11T18:52:34Z",
+      "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 397,
@@ -722,7 +836,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "457b1a9a588f3ea859442cf04b660aca9dc00869",
+    "original_repository_sha": "09d6750e60b1eee51f08c6599f9eaedab425360e",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"

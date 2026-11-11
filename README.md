@@ -15,15 +15,16 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,154 | 🐛 216 | 🌐 C++ | 📅 2026-10-25 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,159 | 🐛 216 | 🌐 C++ | 📅 2026-10-25 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,687 | 🐛 13 | 🌐 C++ | 📅 2026-11-07
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,276 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,691 | 🐛 13 | 🌐 C++ | 📅 2026-11-07
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,280 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,349 | 🐛 88 | 🌐 C++ | 📅 2026-10-09
 * OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 943 | 🐛 122 | 🌐 C | 📅 2026-10-28
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
 * Meta G Link Direct <https://github.com/RandyNorthrup/meta-g-link-direct> ⭐ 9 | 🐛 2 | 🌐 C++ | 📅 2026-11-02 — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
+* OBS IRL Control <https://github.com/gleem-gg/obs-irl-control> ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-10-05 — Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.
 * Kori <https://github.com/askq-git/kori> ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-14 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
 
 **Plugin Install:**
@@ -62,7 +63,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 20 | 🐛 22 | 🌐 Go | 📅 2026-11-09).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 20 | 🐛 22 | 🌐 Go | 📅 2026-11-11).
 
 ## CodingFreaks Overlays
 
@@ -92,6 +93,36 @@ The docks give you one chat for every platform (reply or send to several channel
 
 [Fut Overlay](https://futoverlay.com) is a browser-source football overlay for OBS Studio with live scoreboards, lineups, stats and match events. Pick a theme, paste one URL into OBS, and the screen updates in real time during the match, with no manual edits. Works for live streams and recordings on Twitch, YouTube and Kick, with themes in Portuguese, English and Spanish. A free trial is available to test it before subscribing.
 
+## Layrs
+
+[Layrs](https://layrs.tv) is a free hosted overlay editor for Twitch and Kick that streamers build together with their mods, live in the browser.
+It has chat with 7TV, BTTV and FFZ emotes and 7TV paints, alerts, goals, a subathon timer and polls built in, imports StreamElements overlays, and goes into OBS as one Browser Source URL. No ads or watermarks on stream.
+
+## chatlogs.de Overlays
+
+[chatlogs.de](https://chatlogs.de/en/?ref=awesome) offers five free browser source overlays for Twitch, set up in the browser and added to OBS Studio or Streamlabs as one URL. Nothing to install, no ads, in English and German.
+
+* [Subathon timer](https://chatlogs.de/en/timer?ref=awesome): subs, gift subs, Bits, raids and follows add time on their own, with happy hour, a time cap and goals. The server keeps the time, so an OBS crash or a scene switch loses nothing. Mods run it from a phone web app.
+* [Prize wheel](https://chatlogs.de/en/wheel?ref=awesome): viewers spin it with a channel points reward. Up to ten wheels with up to 100 fields each, 17 designs, and an optional result announcement in chat via Streamer.bot.
+* [Chat overlay](https://chatlogs.de/en/chatbox?ref=awesome): live chat with Twitch, 7TV, BTTV and FFZ emotes, badges, subs and raids in 15 customisable designs. Messages deleted by mods disappear at once.
+* [Clip overlay](https://chatlogs.de/en/clips?ref=awesome): random clips from the channel's whole clip library without repeats, with a lower third in 17 designs.
+* [Chat stats](https://chatlogs.de/en/chatstats?ref=awesome): top chatters, favourite emotes, busiest hours and today's chat as animated tiles.
+
+The clip overlay and the wheel work for any Twitch channel. The timer, chat overlay and stats need the channel in the chatlogs.de chat archive, where streamers can add their own channel after signing in with Twitch.
+
+## OverlayCast
+
+[OverlayCast](https://overlaycast.com) is a web app for building OBS browser-source overlays: live chat and chat bars, donate alerts, goal bars, timers, polls and chat-driven community widgets. Customise a widget in the browser, paste its single URL into OBS, and later edits update the running overlay without touching OBS. Reads YouTube, Twitch and Kick chat (TikTok LIVE through TikFinity) and Streamlabs donations. Eight widgets are free with a watermark; the rest need Pro, with a 30-day free trial.
+
+## send21 Stream Tips
+
+[send21 Stream Tips](https://github.com/send21io/send21-stream-tips) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 is a free, open-source (MIT) tip-alert overlay for OBS, built on send21: crypto pay links and API for people and AI agents. Viewers tip from their phone, and the Browser Source plays the alert once, only after the payment is confirmed; self-hosted, with a goal bar, moderation queue and test alerts, and tips go straight to the streamer's own wallet.
+
+## CrossChat
+
+[CrossChat](https://github.com/RandyNorthrup/crosschat-obs) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-08 is a free, open source (MIT) companion for OBS Studio when you stream to several platforms at once. It reads Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat into one window, lets you answer everyone with one message (or one person on their own platform), and moderates Twitch, YouTube, Kick and Rumble (and deletes Facebook comments).
+Its chat, featured message, viewer counter and alert widgets are OBS Browser Sources with a theme editor. It runs on your own PC (Windows, macOS, Linux) with no account, server or telemetry.
+
 # Fiver Twitch Store
 
 Anything you need for a few dollars
@@ -101,9 +132,13 @@ Anything you need for a few dollars
 
 # Desktop Apps
 
+## Corneta
+
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) ⭐ 2 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
+
 ## InstantClone
 
-[InstantClone](https://s1moscs.dev/instantclone) is a free, [open source](https://github.com/Soulhackzlol/InstantClone) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-11-10 (GPL-3.0) stream delay for OBS on Windows and Linux. It runs on your own computer between OBS and Twitch, YouTube or Kick, so you can add, change or drop the delay while you are live, without ending the stream: add one to stop stream snipers during a match, then cut back to real time after it. It works with Twitch's Enhanced Broadcasting and can send one stream to several platforms at once.
+[InstantClone](https://s1moscs.dev/instantclone) is a free, [open source](https://github.com/Soulhackzlol/InstantClone) ⭐ 29 | 🐛 2 | 🌐 Rust | 📅 2026-11-10 (GPL-3.0) stream delay for OBS on Windows and Linux. It runs on your own computer between OBS and Twitch, YouTube or Kick, so you can add, change or drop the delay while you are live, without ending the stream: add one to stop stream snipers during a match, then cut back to real time after it. It works with Twitch's Enhanced Broadcasting and can send one stream to several platforms at once.
 
 ## Link
 
@@ -112,7 +147,7 @@ Built with AI assistance (Claude Code).
 
 ## Vidora
 
-[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-11-09.
+[Vidora](https://getvidora.com) is a Chrome extension that saves the video playing in a tab as one file with picture and sound, including HLS (.m3u8) and DASH streams, and records live HLS streams until you press Stop. Streamers can use it to keep a copy of a public Twitch VOD or clip before it is deleted (subscriber-only VODs are not supported). Free during launch, closed source; bug reports and site requests go to the [community repo](https://github.com/romainGouraud/vidora) ⭐ 0 | 🐛 1 | 📅 2026-11-11.
 
 ## ClipKeeper
 
@@ -121,12 +156,12 @@ Built with AI assistance (Claude Code).
 
 ## Onion Board
 
-[Onion Board](https://onion-alien.github.io/onion-board/) is a free soundboard for Windows 10/11. Sounds go through your mic (via VB-Cable), so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-11-10 under MIT + Commons Clause (source-available, not OSI open source). Built with AI assistance (Claude Code).
+[Onion Board](https://onionalien.com/onionboard/) is a free soundboard for Windows 10/11. Sounds go straight through the mic you already use, with no virtual cable, so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-11-11 under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-10 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 1 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-10 desktop app for musicians who take song requests through StreamerSongList or StreamElements.
 When a song starts, it pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
@@ -134,11 +169,15 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 [ChatPiP](https://chromewebstore.google.com/detail/chatpip/afnglohgkkpmbeggclalkohkdjbfadai) is a desktop Chrome extension that keeps Twitch or YouTube video and live chat together in a floating window. Chat can sit beside, below or over the video, and multiple streams can keep their own chats. Includes a seven-day trial followed by a paid license.
 
+## Composi Chat
+
+[Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) is a free Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/) extension that merges Twitch, Kick and TikTok live chat into one browser side panel, with 7TV, BTTV and FFZ emotes, first-timer tags and a combined viewer count. It is read-only and needs no account and no OBS setup.
+
 ## BetterTTV
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,298 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-10
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,299 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-11
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
@@ -155,11 +194,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 224 | 🐛 48 | 🌐 Python | 📅 2026-11-09 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 229 | 🐛 50 | 🌐 Python | 📅 2026-11-11 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-11-10 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2026-11-11 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -228,17 +267,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,497 | 🐛 748 | 🌐 C++ | 📅 2026-11-06 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,513 | 🐛 747 | 🌐 C++ | 📅 2026-11-06 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,497 | 🐛 748 | 🌐 C++ | 📅 2026-11-06
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,513 | 🐛 747 | 🌐 C++ | 📅 2026-11-06
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,566 | 🐛 578 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,565 | 🐛 578 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,566 | 🐛 578 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,565 | 🐛 578 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -258,6 +297,14 @@ Kitten that chases the mouse pointer desktop toy, very very lightweight and simp
 [Mixer](https://github.com/ubisoft/mixer#mixer) ⚠️ Archived is a Blender addon developed at Ubisoft Animation Studio for Real Time Collaboration in 3D edition.
 It allows multiple Blender users to work on the same scene at the same time.
 If you livestream digital Art, you can colab with other streamers or viewers.
+
+## Crossfade
+
+[Crossfade](https://gleem.gg/crossfade) is a free, [open source](https://github.com/gleem-gg/crossfade) ⭐ 7 | 🐛 12 | 🌐 Rust | 📅 2026-11-11 (Apache-2.0) virtual audio mixer for streamers on Linux, built on PipeWire. Every channel gets its own Monitor and Stream fader, so what you hear and what your viewers hear are separate mixes, with virtual microphones for OBS and Discord. An optional VOD mix feeds a second OBS audio track, so music can play live but stay out of the recording. It also hosts LV2 and VST effects per channel and works with MIDI controllers, without needing any specific hardware.
+
+## Annotator
+
+[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) ⭐ 17 | 🐛 27 | 🌐 C# | 📅 2026-11-05 (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
 
 # Mobile Apps
 
@@ -316,6 +363,11 @@ Every draw uses the browser's Web Crypto API before the wheel animates, and ther
 
 [RandomWheel](https://randomwheel.com/streaming) is a free spinning wheel for giveaways and decisions on stream. Add any public wheel to OBS or Streamlabs as a browser source with a transparent background, then spin it with a click or the Space key.
 You can have it remove the winner after each spin, and it works in 18 languages. No account needed to spin, no ads, no watermark.
+
+## Custom Spinner Wheel
+
+[Custom Spinner Wheel](https://customspinnerwheel.com) is a free spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners live on stream — add your entries, spin, and let the wheel decide. It also includes an Instagram comment picker and a truth-or-dare wheel.
+No signup, no account, nothing to install — it runs entirely in the browser, and it is also available in Spanish, French and Portuguese.
 
 ## ReStream
 
@@ -577,6 +629,26 @@ Free, with no sign-up.
 
 [Speaker & Headphone Test](https://theaudiostuff.com/tools/speaker-test/) checks that left and right come from the correct side and that your speakers or headphones are in phase, and sweeps for rattles, so you can confirm your monitoring before going live.
 Free, with no sign-up. Runs in the browser.
+
+## EmoteSize
+
+[EmoteSize](https://emotesize.com/twitch-emote-resizer) is a free browser tool that resizes images and GIFs to Twitch, Discord, Kick and Slack emote sizes.
+Files are processed on your device and never uploaded, and each size guide cites the official help page with the date it was read.
+
+## Animated Emote Maker
+
+[Animated Emote Maker](https://animatedemotemaker.com) turns one picture, or a character it designs with you, into a matching set of animated Twitch and Discord emotes, plus sub badges, PNGTuber states and channel panels in the same style.
+It also has a free [emote resizer](https://animatedemotemaker.com/twitch-emote-resizer) that exports Twitch, Discord, 7TV and BTTV sizes at once in the browser. New accounts get 3 free credits; after that, one-time credit packs (no subscription required).
+
+## Burncaps Teleprompter
+
+[Burncaps Teleprompter](https://burncaps.app/free-online-teleprompter?utm_source=awesomestreamingtools) is a free browser teleprompter for reading a prepared script while you film: paste it, set the speed in words a minute, mirror it for a teleprompter glass and fill the screen.
+It does not record, listen or follow your voice, and the script is never sent or saved. Free, with no sign-up.
+
+## Video Size Reducer
+
+[Video Size Reducer](https://video-size-reducer.com/) compresses a video to a target file size, such as Discord, email or WhatsApp limits, and returns an H.264 MP4 with no watermark. It takes MP4, MOV, WebM and MKV; compression runs on its servers, nothing to install.
+Visitors can try it without signing up; new accounts get 30 one-time free credits, free uploads up to 1 GiB, paid plans from $9.99/mo.
 
 # Twitch Extensions
 
@@ -1413,4 +1485,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
