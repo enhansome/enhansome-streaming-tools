@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5159,
+            "stars": 5157,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -40,7 +40,7 @@
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4691,
+            "stars": 4697,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4280,
+            "stars": 4286,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 122,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 943,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -243,6 +243,27 @@
         },
         {
           "node_type": "item",
+          "title": "Loudness Balance Monitor https://github.com/AllegroMoltoV/obs-loudness-balance-monitor",
+          "description": "Open-source (GPL-2.0) OBS Studio dock that rates voice-to-BGM loudness balance, mix level, and clipping risk as green, yellow, or red, and can record the final mix for playback. Windows release; macOS and Linux build from source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OBS Studio dock plugin to check the loudness balance between voice and BGM. / 声と BGM のラウドネスのバランスを確かめる OBS Studio のドックのプラグイン「音量バランスモニター」",
+            "homepage": null,
+            "id": 1127701660,
+            "language": "C++",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-12T08:39:44Z",
+            "open_issues": 0,
+            "owner": "AllegroMoltoV",
+            "repo": "obs-loudness-balance-monitor",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-11-12T21:36:44.322Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kori https://github.com/askq-git/kori",
           "description": "Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.",
           "children": [],
@@ -272,6 +293,33 @@
             ]
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI Assistant for OBS Studio https://github.com/AllegroMoltoV/ai-assistant-for-obs",
+          "description": "Open-source (GPL-2.0) OBS Studio dock where an AI assistant reads OBS state, scenes, and logs to troubleshoot stream problems, and applies OBS setting changes only after you approve them. Uses your own OpenAI API key. Windows only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OBS Studio dock plugin to troubleshoot streaming problems with an AI assistant. Uses your own OpenAI API key. / 配信のトラブルを AI に相談できる OBS Studio のドックのプラグイン「AIアシスタント」",
+            "homepage": null,
+            "id": 1454977907,
+            "language": "C++",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-12T11:25:31Z",
+            "open_issues": 0,
+            "owner": "AllegroMoltoV",
+            "repo": "ai-assistant-for-obs",
+            "stars": 0,
+            "topics": [
+              "obs-plugin",
+              "obs-studio",
+              "openai",
+              "streaming",
+              "troubleshooting"
+            ]
+          },
+          "first_seen": "2026-11-12T21:36:44.322Z"
         }
       ],
       "title": "OBS Plugins"
@@ -449,7 +497,7 @@
                 "id": 1441150407,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T23:59:05Z",
+                "last_commit": "2026-11-12T05:39:20Z",
                 "open_issues": 1,
                 "owner": "RandyNorthrup",
                 "repo": "crosschat-obs",
@@ -590,10 +638,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T22:10:24Z",
-                "open_issues": 747,
+                "open_issues": 750,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31513,
+                "stars": 31525,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -628,7 +676,7 @@
                 "language": "QML",
                 "license": null,
                 "last_commit": "2026-05-31T10:12:54Z",
-                "open_issues": 578,
+                "open_issues": 579,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
                 "stars": 26565,
@@ -805,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:34:48.569Z",
+    "last_updated": "2026-11-12T21:36:44.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -813,7 +861,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-11T18:52:34Z",
+      "last_commit": "2026-11-12T15:10:25Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -836,7 +884,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "09d6750e60b1eee51f08c6599f9eaedab425360e",
+    "original_repository_sha": "a95c0ed4d2396d1a825bc7f33e71d9d94acd9786",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
