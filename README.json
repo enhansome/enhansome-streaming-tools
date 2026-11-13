@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5157,
+            "stars": 5160,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T04:17:12Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4697,
+            "stars": 4699,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -122,11 +122,11 @@
             "id": 250775408,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T20:26:24Z",
+            "last_commit": "2026-11-13T09:00:36Z",
             "open_issues": 122,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 942,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -253,8 +253,8 @@
             "id": 1127701660,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-12T08:39:44Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-13T06:58:39Z",
+            "open_issues": 1,
             "owner": "AllegroMoltoV",
             "repo": "obs-loudness-balance-monitor",
             "stars": 3,
@@ -306,8 +306,8 @@
             "id": 1454977907,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-12T11:25:31Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-13T06:58:33Z",
+            "open_issues": 1,
             "owner": "AllegroMoltoV",
             "repo": "ai-assistant-for-obs",
             "stars": 0,
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "Alukkart",
                 "repo": "ClipKeeper",
-                "stars": 8,
+                "stars": 7,
                 "topics": [
                   "clip-editor",
                   "clips",
@@ -638,10 +638,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T22:10:24Z",
-                "open_issues": 750,
+                "open_issues": 751,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31525,
+                "stars": 31538,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -679,7 +679,7 @@
                 "open_issues": 579,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26565,
+                "stars": 26570,
                 "topics": [
                   "linux",
                   "macos",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:36:44.322Z",
+    "last_updated": "2026-11-13T21:00:13.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -861,7 +861,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-12T15:10:25Z",
+      "last_commit": "2026-11-13T11:31:16Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -884,7 +884,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "a95c0ed4d2396d1a825bc7f33e71d9d94acd9786",
+    "original_repository_sha": "09fbf9586f325d8a27471a89ef9532e112c06133",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
