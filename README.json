@@ -37,10 +37,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T04:17:12Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4699,
+            "stars": 4702,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4286,
+            "stars": 4289,
             "topics": [
               "input",
               "keyboard",
@@ -122,11 +122,11 @@
             "id": 250775408,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T09:00:36Z",
+            "last_commit": "2026-11-14T16:50:52Z",
             "open_issues": 122,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 943,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -253,10 +253,10 @@
             "id": 1127701660,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T06:58:39Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T06:05:43Z",
+            "open_issues": 0,
             "owner": "AllegroMoltoV",
-            "repo": "obs-loudness-balance-monitor",
+            "repo": "loudness-balance-monitor",
             "stars": 3,
             "topics": []
           },
@@ -306,8 +306,8 @@
             "id": 1454977907,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T06:58:33Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T06:26:05Z",
+            "open_issues": 0,
             "owner": "AllegroMoltoV",
             "repo": "ai-assistant-for-obs",
             "stars": 0,
@@ -637,11 +637,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T22:10:24Z",
-                "open_issues": 751,
+                "last_commit": "2026-11-14T15:02:58Z",
+                "open_issues": 749,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31538,
+                "stars": 31546,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -853,7 +853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:00:13.400Z",
+    "last_updated": "2026-11-14T19:30:05.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -861,7 +861,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-13T11:31:16Z",
+      "last_commit": "2026-11-14T13:05:55Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -884,7 +884,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "09fbf9586f325d8a27471a89ef9532e112c06133",
+    "original_repository_sha": "4f53045d18086e79886f8678d4a639d39b0ff5b5",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
