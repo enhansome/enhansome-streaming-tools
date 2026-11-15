@@ -17,15 +17,16 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 * `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,160 | 🐛 216 | 🌐 C++ | 📅 2026-10-25 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,702 | 🐛 13 | 🌐 C++ | 📅 2026-11-07
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,289 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,703 | 🐛 13 | 🌐 C++ | 📅 2026-11-15
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,294 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
 * `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,349 | 🐛 88 | 🌐 C++ | 📅 2026-10-09
-* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 944 | 🐛 122 | 🌐 C | 📅 2026-11-14
+* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 945 | 🐛 122 | 🌐 C | 📅 2026-11-14
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
 * Meta G Link Direct <https://github.com/RandyNorthrup/meta-g-link-direct> ⭐ 9 | 🐛 2 | 🌐 C++ | 📅 2026-11-02 — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
 * OBS IRL Control <https://github.com/gleem-gg/obs-irl-control> ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-10-05 — Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.
 * Loudness Balance Monitor <https://github.com/AllegroMoltoV/obs-loudness-balance-monitor> ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 — Open-source (GPL-2.0) OBS Studio dock that rates voice-to-BGM loudness balance, mix level, and clipping risk as green, yellow, or red, and can record the final mix for playback. Windows release; macOS and Linux build from source.
+* StreamoScope <https://github.com/tjnk24/streamoscope> ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 — Open-source (MIT) OBS Studio dock that shows live stats for every running stream output side by side, whether OBS itself, obs-multi-rtmp or another plugin started it: bitrate with a two-minute graph, dropped frames, network congestion, uptime and status, plus FPS, encoder and render lag and, on Windows, GPU load. Windows installer with background updates signed with minisign.
 * Kori <https://github.com/askq-git/kori> ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-14 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
 * AI Assistant for OBS Studio <https://github.com/AllegroMoltoV/ai-assistant-for-obs> ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 — Open-source (GPL-2.0) OBS Studio dock where an AI assistant reads OBS state, scenes, and logs to troubleshoot stream problems, and applies OBS setting changes only after you approve them. Uses your own OpenAI API key. Windows only.
 
@@ -65,7 +66,7 @@ like Donations, Bits, Cheers, etc and also important events like Raids with lots
 
 [All-Chat](https://allch.at) is an open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source via a URL.
 
-It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 21 | 🐛 22 | 🌐 Go | 📅 2026-11-14).
+It renders 7TV, BTTV, and FFZ emotes natively and syncs moderation deletions across platforms so removed messages disappear from the overlay too. Available as a hosted service or self-hostable via Docker (AGPL 3.0, source at <https://github.com/caesarakalaeii/all-chat> ⭐ 21 | 🐛 23 | 🌐 Go | 📅 2026-11-15).
 
 ## CodingFreaks Overlays
 
@@ -136,7 +137,7 @@ Anything you need for a few dollars
 
 ## Corneta
 
-[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) ⭐ 3 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) ⭐ 3 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-15 (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
 
 ## InstantClone
 
@@ -159,7 +160,7 @@ Built with AI assistance (Claude Code).
 ## Onion Board
 
 [Onion Board](https://onionalien.com/onionboard/) is a free soundboard for Windows 10/11. Sounds go straight through the mic you already use, with no virtual cable, so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-11-14 under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-11-15 under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
@@ -179,7 +180,7 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,299 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,299 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-15
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
@@ -196,11 +197,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 251 | 🐛 57 | 🌐 Python | 📅 2026-11-14 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 260 | 🐛 59 | 🌐 Python | 📅 2026-11-15 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 39 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 39 | 🐛 0 | 🌐 C++ | 📅 2026-11-15 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -269,17 +270,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,546 | 🐛 749 | 🌐 C++ | 📅 2026-11-14 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,554 | 🐛 750 | 🌐 C++ | 📅 2026-11-14 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,546 | 🐛 749 | 🌐 C++ | 📅 2026-11-14
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,554 | 🐛 750 | 🌐 C++ | 📅 2026-11-14
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,570 | 🐛 579 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,572 | 🐛 579 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,570 | 🐛 579 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,572 | 🐛 579 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -334,6 +335,10 @@ It also includes an OBS chat overlay with 7TV/BTTV/FFZ emotes and an Overlay Bui
 
 [Facecam](https://www.facecam.ai/pngtuber-maker) is a free PNGTuber maker in the browser: pick a character or upload your own PNGs, and it talks when you talk.
 Copy one link into an OBS Browser Source for a transparent, mic-driven avatar. No sign-up.
+
+## No Stairs Please MCP
+
+[No Stairs Please MCP](https://nostairsplease.com/mcp) is a live music venue directory and remote MCP server for bands, live-streamed shows, and tour managers searching under-400 capacity venues across North America.
 
 ## PNGTuber Maker
 
@@ -664,6 +669,16 @@ Visitors can try it without signing up; new accounts get 30 one-time free credit
 
 [GIFKit Discord GIF Checker](https://gifkit.app/discord/cannot-resize-gif/) checks a GIF's format, dimensions, file size and frames against Discord's custom emoji and sticker upload limits, shows what fails when Discord says "Cannot resize GIF", and lets you fix and recheck the file on the same page.
 GIFKit also has a [GIF resizer](https://gifkit.app/tools/gif-resizer/) with Discord (128×128) and Twitch (112×112) emote presets. Free, no sign-up, no watermark; files are processed in the browser and never uploaded. The site also sells custom emote sets.
+
+## ClipX
+
+[ClipX](https://clipx.io/tools/twitch-clip-maker) turns a Twitch, Kick or YouTube VOD into vertical clips for TikTok, YouTube Shorts and Reels. Paste the VOD link, and it ranks the best moments, puts your facecam over the gameplay and adds captions you can edit.
+Free plan to try it: process, edit and preview clips. Exports need Pro ($20/mo) and have no watermark.
+
+## GetYouTubeTranscript
+
+[GetYouTubeTranscript](https://getyoutubetranscript.com/) pulls the captions of a YouTube video or past livestream as text with timestamps, and exports TXT, SRT or VTT files, which helps when writing show notes, picking clip moments or re-uploading a VOD with subtitles. It can also translate the transcript and summarize the stream with AI.
+Visitors can fetch a few transcripts a day without signing up; new accounts get 100 one-time free credits, paid plans from $5/mo.
 
 # Twitch Extensions
 
@@ -1500,4 +1515,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

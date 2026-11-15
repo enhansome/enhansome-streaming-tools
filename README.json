@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T04:17:12Z",
+            "last_commit": "2026-11-15T19:54:02Z",
             "open_issues": 13,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4702,
+            "stars": 4703,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4289,
+            "stars": 4294,
             "topics": [
               "input",
               "keyboard",
@@ -126,7 +126,7 @@
             "open_issues": 122,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 944,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -261,6 +261,48 @@
             "topics": []
           },
           "first_seen": "2026-11-12T21:36:44.322Z"
+        },
+        {
+          "node_type": "item",
+          "title": "StreamoScope https://github.com/tjnk24/streamoscope",
+          "description": "Open-source (MIT) OBS Studio dock that shows live stats for every running stream output side by side, whether OBS itself, obs-multi-rtmp or another plugin started it: bitrate with a two-minute graph, dropped frames, network congestion, uptime and status, plus FPS, encoder and render lag and, on Windows, GPU load. Windows installer with background updates signed with minisign.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Real-time stats for every active OBS stream — native, multi-RTMP, or other plugin outputs. All in one dock. By Froghead Works.",
+            "homepage": null,
+            "id": 1436098810,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-15T00:49:21Z",
+            "open_issues": 0,
+            "owner": "tjnk24",
+            "repo": "streamoscope",
+            "stars": 3,
+            "topics": [
+              "bitrate",
+              "dropped-frames",
+              "kick",
+              "livestreaming",
+              "lua",
+              "multistream",
+              "obs",
+              "obs-dock",
+              "obs-multi-rtmp",
+              "obs-script",
+              "obs-studio",
+              "obs-websocket",
+              "react",
+              "stream-monitoring",
+              "streaming",
+              "streaming-tools",
+              "twitch",
+              "typescript",
+              "windows",
+              "youtube"
+            ]
+          },
+          "first_seen": "2026-11-15T19:58:34.375Z"
         },
         {
           "node_type": "item",
@@ -638,10 +680,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-14T15:02:58Z",
-                "open_issues": 749,
+                "open_issues": 750,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31546,
+                "stars": 31554,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -679,7 +721,7 @@
                 "open_issues": 579,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26570,
+                "stars": 26572,
                 "topics": [
                   "linux",
                   "macos",
@@ -853,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:30:05.747Z",
+    "last_updated": "2026-11-15T19:58:34.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -861,7 +903,7 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-14T13:05:55Z",
+      "last_commit": "2026-11-15T19:04:34Z",
       "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
@@ -884,7 +926,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "4f53045d18086e79886f8678d4a639d39b0ff5b5",
+    "original_repository_sha": "261dfa82347e49c06a1ed6376756ea6b85f7f007",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
