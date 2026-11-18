@@ -15,11 +15,11 @@
             "id": 250207810,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T12:58:52Z",
+            "last_commit": "2026-11-18T13:52:42Z",
             "open_issues": 216,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5167,
+            "stars": 5166,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T22:39:44Z",
+            "last_commit": "2026-11-18T14:26:16Z",
             "open_issues": 17,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4710,
+            "stars": 4711,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4297,
+            "stars": 4298,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 88,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1349,
+            "stars": 1350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -274,7 +274,7 @@
             "id": 1436098810,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:11:59Z",
+            "last_commit": "2026-11-18T21:26:21Z",
             "open_issues": 0,
             "owner": "tjnk24",
             "repo": "streamoscope",
@@ -679,11 +679,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T14:22:14Z",
-                "open_issues": 750,
+                "last_commit": "2026-11-18T08:41:35Z",
+                "open_issues": 749,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31578,
+                "stars": 31585,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:41:01.207Z",
+    "last_updated": "2026-11-18T22:22:25.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -903,8 +903,8 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-17T00:15:29Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-18T16:42:32Z",
+      "open_issues": 1,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 399,
@@ -926,7 +926,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "adbe7d2299ff2dcedbae675b669ac568388cc400",
+    "original_repository_sha": "4040c04f467395781aa8e60880b630e571c551c6",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
