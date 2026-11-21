@@ -19,7 +19,7 @@
             "open_issues": 217,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5169,
+            "stars": 5170,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,11 +36,11 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T21:42:51Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-21T20:37:04Z",
+            "open_issues": 17,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
-            "stars": 4712,
+            "stars": 4714,
             "topics": [
               "background-segmentation",
               "computer-vision",
@@ -75,10 +75,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T15:47:13Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4303,
+            "stars": 4306,
             "topics": [
               "input",
               "keyboard",
@@ -274,7 +274,7 @@
             "id": 1436098810,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T19:50:57Z",
+            "last_commit": "2026-11-21T00:53:27Z",
             "open_issues": 0,
             "owner": "tjnk24",
             "repo": "streamoscope",
@@ -573,6 +573,43 @@
           "description": null,
           "node_type": "group",
           "title": "CrossChat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neon Stream Overlay",
+              "description": "is a free, open-source (MIT) neon chat box for an OBS Browser Source. For Twitch it reads public chat directly, with no backend, account or login; Kick chat is optional and runs through Kick's official webhooks and a small bridge you deploy to your own free Cloudflare account. A setup page builds the link: five themes, custom colours, particle bursts on or your own keywords, mod-only controls and a demo mode, and messages that mods delete on Twitch disappear from the overlay too. There is no watermark; an optional small credit line is off unless you turn it on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free neon chat overlay for OBS. Twitch with no backend or login, optional Kick through official webhooks and your own bridge. Made By FALCREB.",
+                "homepage": "https://berkantshn.github.io/neon-stream-overlay/",
+                "id": 1442712377,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-21T06:21:47Z",
+                "open_issues": 2,
+                "owner": "berkantshn",
+                "repo": "neon-stream-overlay",
+                "stars": 2,
+                "topics": [
+                  "chat-overlay",
+                  "javascript",
+                  "kick",
+                  "neon",
+                  "obs",
+                  "obs-overlay",
+                  "streaming",
+                  "twitch"
+                ]
+              },
+              "first_seen": "2026-11-21T20:40:21.698Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neon Stream Overlay"
         }
       ],
       "title": "Overlays"
@@ -680,10 +717,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-18T08:41:35Z",
-                "open_issues": 750,
+                "open_issues": 752,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31606,
+                "stars": 31642,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -721,7 +758,7 @@
                 "open_issues": 579,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26581,
+                "stars": 26584,
                 "topics": [
                   "linux",
                   "macos",
@@ -793,7 +830,7 @@
                 "open_issues": 13,
                 "owner": "ubisoft",
                 "repo": "mixer",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -895,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:59:11.088Z",
+    "last_updated": "2026-11-21T20:40:21.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -903,11 +940,11 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-20T18:36:17Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-21T15:13:33Z",
+      "open_issues": 0,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
-      "stars": 399,
+      "stars": 400,
       "topics": [
         "awesome",
         "awesome-list",
@@ -926,7 +963,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "82982a7290f8f5cc286019e191dd0083b453bec3",
+    "original_repository_sha": "89866376bb4771108d5a2378febf4d17d734382c",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
