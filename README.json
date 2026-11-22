@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-18T13:52:42Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "sorayuki",
             "repo": "obs-multi-rtmp",
-            "stars": 5170,
+            "stars": 5173,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -36,7 +36,7 @@
             "id": 358081783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T20:37:04Z",
+            "last_commit": "2026-11-21T21:53:48Z",
             "open_issues": 17,
             "owner": "royshil",
             "repo": "obs-backgroundremoval",
@@ -78,7 +78,7 @@
             "open_issues": 19,
             "owner": "univrsal",
             "repo": "input-overlay",
-            "stars": 4306,
+            "stars": 4307,
             "topics": [
               "input",
               "keyboard",
@@ -105,7 +105,7 @@
             "open_issues": 88,
             "owner": "ratwithacompiler",
             "repo": "OBS-captions-plugin",
-            "stars": 1351,
+            "stars": 1353,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -126,7 +126,7 @@
             "open_issues": 122,
             "owner": "exeldro",
             "repo": "obs-move-transition",
-            "stars": 948,
+            "stars": 949,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:04.215Z"
@@ -374,16 +374,16 @@
             {
               "node_type": "item",
               "title": "TalkAStranger Stream Overlays",
-              "description": "is a free, open-source real-time browser source widget for OBS Studio and Streamlabs. It renders live alerts, animated confetti/gift drops, and viewer engagement events with transparent backgrounds and zero external account setup.",
+              "description": "is an open-source suite of HTML5/CSS3 browser sources for OBS Studio and Streamlabs across 10 categories (Tactical FPS, 8-Bit Retro Arcade, Esports, Frosted Glass, Lofi, Podcasts, Synthwave, Crypto, IRL, and Speedrunning). It provides 30 animated 1080p scenes (In-Game HUD, Starting Soon, and Intermission), Web Audio synthesized alert chimes, an offline HTML personalizer for channel handles and colors, and a free open-source community edition alongside $10 commercial 3-scene theme packs.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "Free open-source OBS Studio and Streamlabs overlay widgets for TalkAStranger.com — display live community alerts and grow your audience with SEO-driven stream overlays.",
                 "homepage": "https://talkastranger.com",
                 "id": 1416254124,
-                "language": "JavaScript",
+                "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-13T01:38:40Z",
+                "last_commit": "2026-11-21T21:04:05Z",
                 "open_issues": 2,
                 "owner": "umairkhan2582",
                 "repo": "talkastranger-stream-overlays",
@@ -717,10 +717,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-18T08:41:35Z",
-                "open_issues": 752,
+                "open_issues": 751,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31642,
+                "stars": 31677,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -758,7 +758,7 @@
                 "open_issues": 579,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26584,
+                "stars": 26587,
                 "topics": [
                   "linux",
                   "macos",
@@ -855,6 +855,81 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TalkAStranger Streamer Companion",
+              "description": "(Direct Extension ZIP) is an open-source Manifest V3 Chrome, Edge, and Brave extension providing a docked Side Panel HUD for live broadcasters. It features real-time viewer counters, live chat feed, synthesized Web Audio gift alerts, a screen and tab broadcast studio, and instant launcher for TalkAStranger's 10-theme stream overlay suite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Chrome Streamer Extension for TalkAStranger — Manifest V3 Side Panel HUD, real-time chat, animated gift alerts, and screen broadcaster studio.",
+                "homepage": "https://talkastranger.com/developers",
+                "id": 1416489031,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-21T23:19:14Z",
+                "open_issues": 0,
+                "owner": "umairkhan2582",
+                "repo": "talkastranger-streamer-extension",
+                "stars": 1,
+                "topics": [
+                  "chrome-extension",
+                  "live-streaming",
+                  "manifest-v3",
+                  "obs-studio",
+                  "open-source",
+                  "sidepanel",
+                  "streamer-tools",
+                  "talkastranger",
+                  "webrtc"
+                ]
+              },
+              "first_seen": "2026-11-22T20:50:27.294Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TalkAStranger Streamer Companion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TalkAStranger Live Linker SDK",
+              "description": "is an open-source WebRTC live broadcast and stream bridge library. It provides client-side WebRTC lifecycle management (, STUN/TURN, SDP negotiation), a 1-to-N multi-viewer relay hub (), in-browser screen and audio capture with presets, multi-platform stream URL routing for Twitch, Kick, YouTube, and TikTok, normalized cross-platform chat aggregation, and guest-seat co-hosting queues.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Professional open-source SDK for TalkAStranger creators — cross-broadcast TikTok to YouTube, unlock direct Stripe monetized gifting, and tap into organic fan traffic via Country Live Lanes.",
+                "homepage": "https://talkastranger.com",
+                "id": 1416254085,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-21T21:16:48Z",
+                "open_issues": 0,
+                "owner": "umairkhan2582",
+                "repo": "talkastranger-live-linker-sdk",
+                "stars": 1,
+                "topics": [
+                  "creator-tools",
+                  "cross-broadcasting",
+                  "streaming",
+                  "stripe-connect",
+                  "talkastranger",
+                  "tiktok-live",
+                  "video-chat",
+                  "youtube-streaming"
+                ]
+              },
+              "first_seen": "2026-11-22T20:50:27.294Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TalkAStranger Live Linker SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "You can use MultiTwitch",
               "description": "to watch any number of Twitch streams at the same time (as long as your computer can handle it). Simply put the streams you want in the url. MultiTwitch will optimize the layout of streams to give you the maximum size on each of the streams, while maintaining aspect ratio. Source https://github.com/bhamrick/multitwitch",
               "children": [],
@@ -932,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:40:21.698Z",
+    "last_updated": "2026-11-22T20:50:27.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Streaming Tools",
@@ -940,8 +1015,8 @@
       "id": 221719179,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-21T15:13:33Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-22T04:50:21Z",
+      "open_issues": 3,
       "owner": "juancarlospaco",
       "repo": "awesome-streaming-tools",
       "stars": 400,
@@ -963,7 +1038,7 @@
         "twitch-extensions"
       ]
     },
-    "original_repository_sha": "89866376bb4771108d5a2378febf4d17d734382c",
+    "original_repository_sha": "70604e6a9f9b8e7f016df20bbfeffd646aacb49a",
     "enhanced_repository": "enhansome/enhansome-streaming-tools",
     "enhanced_repository_description": null,
     "title": "Awesome Streaming Tools with stars"
