@@ -15,18 +15,18 @@ Visually attractive eye candy and useful tools that you can show off on your str
 
 # OBS Plugins
 
-* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,177 | 🐛 218 | 🌐 C++ | 📅 2026-11-18 (Alternative is to use [
+* `obs-multi-rtmp` <https://github.com/sorayuki/obs-multi-rtmp> ⭐ 5,178 | 🐛 219 | 🌐 C++ | 📅 2026-11-18 (Alternative is to use [
   ](#ReStream) )
-* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,720 | 🐛 11 | 🌐 C++ | 📅 2026-11-24
-* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,314 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
-* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,354 | 🐛 89 | 🌐 C++ | 📅 2026-10-09
-* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 949 | 🐛 122 | 🌐 C | 📅 2026-11-14
+* OBS Background removal <https://github.com/royshil/obs-backgroundremoval#introduction> ⭐ 4,721 | 🐛 11 | 🌐 C++ | 📅 2026-11-24
+* `obs-input-overlay` <https://github.com/univrsal/input-overlay> ⭐ 4,315 | 🐛 19 | 🌐 C++ | 📅 2026-11-10
+* `closed-captioning-obs-plugin` <https://github.com/ratwithacompiler/OBS-captions-plugin#closed-captioning-obs-plugin> ⭐ 1,356 | 🐛 89 | 🌐 C++ | 📅 2026-10-09
+* OBS Move Transitions <https://github.com/exeldro/obs-move-transition> ⭐ 949 | 🐛 123 | 🌐 C | 📅 2026-11-14
 * `obs-plugin-spectralizer` <https://github.com/univrsal/spectralizer> ⚠️ Archived
 * `obs-linuxbrowser` <https://github.com/bazukas/obs-linuxbrowser> ⚠️ Archived
 * Meta G Link Direct <https://github.com/RandyNorthrup/meta-g-link-direct> ⭐ 10 | 🐛 3 | 🌐 C++ | 📅 2026-11-17 — Open-source Windows beta plugin that adds Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS Studio, over a Wi-Fi network the glasses host (no phone app).
 * OBS IRL Control <https://github.com/gleem-gg/obs-irl-control> ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-10-05 — Open-source (GPL-2.0) Linux plugin that switches to your offline scene when an IRL stream drops or its RTT gets too high, and back when it recovers. Runs inside OBS, no obs-websocket or Node.js needed.
 * Loudness Balance Monitor <https://github.com/AllegroMoltoV/obs-loudness-balance-monitor> ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 — Open-source (GPL-2.0) OBS Studio dock that rates voice-to-BGM loudness balance, mix level, and clipping risk as green, yellow, or red, and can record the final mix for playback. Windows release; macOS and Linux build from source.
-* StreamoScope <https://github.com/tjnk24/streamoscope> ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23 — Open-source (MIT) OBS Studio dock that shows live stats for every running stream output side by side, whether OBS itself, obs-multi-rtmp or another plugin started it: bitrate with a two-minute graph, dropped frames, network congestion, uptime and status, plus FPS, encoder and render lag and, on Windows, GPU load. Windows installer with background updates signed with minisign.
+* StreamoScope <https://github.com/tjnk24/streamoscope> ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 — Open-source (MIT) OBS Studio dock that shows live stats for every running stream output side by side, whether OBS itself, obs-multi-rtmp or another plugin started it: bitrate with a two-minute graph, dropped frames, network congestion, uptime and status, plus FPS, encoder and render lag and, on Windows, GPU load. Windows installer with background updates signed with minisign.
 * Kori <https://github.com/askq-git/kori> ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-11-23 — Open-source Windows beta plugin for smooth, focus-point and whole-scene zoom animations in OBS Studio.
 * AI Assistant for OBS Studio <https://github.com/AllegroMoltoV/ai-assistant-for-obs> ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-11-19 — Open-source (GPL-2.0) OBS Studio dock where an AI assistant reads OBS state, scenes, and logs to troubleshoot stream problems, and applies OBS setting changes only after you approve them. Uses your own OpenAI API key. Windows only.
 
@@ -165,7 +165,7 @@ Anything you need for a few dollars
 
 ## Corneta
 
-[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) ⭐ 3 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20 (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
+[Corneta](https://www.corneta.live) is a free, [open-source](https://github.com/pitroldev/corneta) ⭐ 3 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 (MIT) Windows app that sends one OBS feed to Twitch, YouTube, Kick and custom RTMP destinations from your own PC. It combines streamer chat, optional local recording and stream reports with chat replay. Straight up mode passes video through without re-encoding; each destination uses your upload bandwidth. Built by Petro Cardoso (pitroldev) with AI assistance.
 
 ## InstantClone
 
@@ -188,11 +188,11 @@ Built with AI assistance (Claude Code).
 ## Onion Board
 
 [Onion Board](https://onionalien.com/onionboard/) is a free soundboard for Windows 10/11. Sounds go straight through the mic you already use, with no virtual cable, so people in Discord or in a game's voice chat hear them, and the hotkeys work while you're in a fullscreen game. It also has an on-screen overlay, a live voice changer, text-to-speech, a separate output for OBS so the stream hears the sounds too, and screen triggers that play a sound when something appears on screen, like a "YOU DIED" banner.
-The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-11-24 under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
+The [source is on GitHub](https://github.com/Onion-Alien/onion-board) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-11-25 under the GPL-3.0 license (open source). Built with AI assistance (Claude Code).
 
 ## BubbleFacts
 
-[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 2 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-24 desktop app for musicians and DJs who stream.
+[BubbleFacts](https://bubblefacts.frolic.org) is a free, [open source](https://github.com/frolicchris/bubblefacts) ⭐ 2 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-25 desktop app for musicians and DJs who stream.
 It follows the song you're playing through StreamerSongList, StreamElements, Nightbot's desktop app, Streamling, or any app that writes a now playing file, and pops up short fact bubbles about it in OBS, written on your own computer from Wikipedia, Wikidata and MusicBrainz, plus any facts you add yourself.
 For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
@@ -208,7 +208,7 @@ For Mac, Windows and Linux. Built with AI assistance (Claude Code).
 
 ![](betterttv.png)
 
-[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,300 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24
+[BetterTTV](https://betterttv.com/emotes/top) is an [open source web browser extension](https://github.com/night/BetterTTV) ⭐ 1,300 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25
 that adds extra features to Twitch stream chats like animated emotes and more, is very popular on streams,
 if you dont understand why a lot of people on your chat types `monkaS` is probably that you need this browser extension,
 you can also add you own customized animated emotes for your chat, also supports not-animated emotes, its free $0 cost.
@@ -225,11 +225,11 @@ you can also add you own customized animated emotes for your chat, also supports
 
 ## Clips Kitty
 
-[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 660 | 🐛 96 | 🌐 Python | 📅 2026-11-24 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
+[Clips Kitty](https://colingpt9.github.io/clips-studio/) is a free, [open source](https://github.com/ColinGPT9/clips-studio) ⭐ 683 | 🐛 100 | 🌐 Python | 📅 2026-11-25 Windows app that turns a Twitch, YouTube or Kick VOD into ready-to-post vertical clips without uploading the footage anywhere. Paste a link and it transcribes the stream on your own machine, picks the moments worth cutting, crops them to 9:16 with whoever is speaking kept centred, and burns in word-synced captions you can edit before exporting. The AI runs on your own GPU rather than a cloud service, so there is no per-clip charge, no subscription and no watermark.
 
 ## Deckboy
 
-[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 67 | 🐛 0 | 🌐 C++ | 📅 2026-11-24 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
+[Deckboy](https://utopian-academy.github.io/Deckboy/) is a free, [open source](https://github.com/Utopian-Academy/Deckboy) ⭐ 68 | 🐛 0 | 🌐 C++ | 📅 2026-11-25 cue deck for Windows, macOS and Linux: a list of clips, stills, slides, web pages and live sources that you take to air one at a time with fades, loops and a last frame that holds instead of showing your desktop. It streams to RTMP or SRT and records at the same time, can take a window on your machine as a cue (a game, a chat, a timer) at its own resolution, and runs from a Stream Deck, Bitfocus Companion, OSC or MIDI. No account, no subscription, no watermark.
 
 [![](https://utopian-academy.github.io/Deckboy/images/hero.png)](https://utopian-academy.github.io/Deckboy/)
 
@@ -298,17 +298,17 @@ If you dont have Designs for *"Will be back soon"* kind of screens, just leaving
 
 ## Flameshot
 
-[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,705 | 🐛 753 | 🌐 C++ | 📅 2026-11-23 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
+[Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,718 | 🐛 755 | 🌐 C++ | 📅 2026-11-23 is an open source crossplatform Qt5 Screenshot app with tools and nice UI, it has a TryIcon and a window widget,
 very nice if you need to take screenshots for your stream.
 
-[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,705 | 🐛 753 | 🌐 C++ | 📅 2026-11-23
+[![](https://raw.githubusercontent.com/lupoDharkael/flameshot/master/img/preview/animatedUsage.gif)](https://github.com/lupoDharkael/flameshot#--------------------------------flameshot---- "Cool screenshots") ⭐ 31,718 | 🐛 755 | 🌐 C++ | 📅 2026-11-23
 
 ## Cool Retro Term
 
-[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,589 | 🐛 577 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
+[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,594 | 🐛 578 | 🌐 QML | 📅 2026-05-31 is a is an open source crossplatform Qt5/QML Terminal app,
 with configurable effects, you can disable any or all effects too, copy\&paste works, for the rest is a normal terminal app but looks fancy.
 
-[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,589 | 🐛 577 | 🌐 QML | 📅 2026-05-31
+[![](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif) ![](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)](https://github.com/Swordfish90/cool-retro-term#cool-retro-term) ⭐ 26,594 | 🐛 578 | 🌐 QML | 📅 2026-05-31
 
 ## SWCursor
 
@@ -335,7 +335,7 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 
 ## Annotator
 
-[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) ⭐ 18 | 🐛 25 | 🌐 C# | 📅 2026-11-24 (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
+[Annotator](https://getannotator.app) is a free, [open source](https://github.com/dorlugasigal/annotator) ⭐ 18 | 🐛 27 | 🌐 C# | 📅 2026-11-25 (Apache-2.0) screen annotation app for macOS and Windows 11. Press a shortcut while you stream to draw arrows, boxes, highlights, a spotlight, zoom or blur over any app, and the marks stay editable until you clear them.
 
 ## CutBench
 
@@ -347,11 +347,11 @@ If you livestream digital Art, you can colab with other streamers or viewers.
 
 ## motu-ui
 
-[motu-ui](https://dvinerlove.github.io/motu-ui/) is a free, [open source](https://github.com/dvinerlove/motu-ui) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-23 (MIT) control panel for MOTU M-series (M2/M4/M6) USB audio interfaces on Windows. For streamers it answers "is OBS actually getting my audio": a live LOOP meter shows the level of the MOTU loopback capture device — the exact signal OBS, Discord, or any recorder hears — next to IN and OUT meters, plus a test-tone button that lights both up. It also exposes driver-level controls the stock panel hides: buffer size, sample rate, low-latency mode, WaveSRC, and editable latency presets (e.g. Record vs Stream). Windows 10/11 only; it wraps the official MOTU driver, nothing else to install.
+[motu-ui](https://dvinerlove.github.io/motu-ui/) is a free, [open source](https://github.com/dvinerlove/motu-ui) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-25 (MIT) control panel for MOTU M-series (M2/M4/M6) USB audio interfaces on Windows. For streamers it answers "is OBS actually getting my audio": a live LOOP meter shows the level of the MOTU loopback capture device — the exact signal OBS, Discord, or any recorder hears — next to IN and OUT meters, plus a test-tone button that lights both up. It also exposes driver-level controls the stock panel hides: buffer size, sample rate, low-latency mode, WaveSRC, and editable latency presets (e.g. Record vs Stream). Windows 10/11 only; it wraps the official MOTU driver, nothing else to install.
 
 ## Mic Control
 
-[Mic Control](https://miccontrol.app/en/dji-mic-3-obs/?ref=awesome-streaming-tools) is a free, [open source](https://github.com/qubik89/DJIMic3) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-11-24 (The Unlicense) desktop app that controls DJI Mic 3 and Mic Mini wireless mic receivers over USB, so you can watch each mic's level, mute it, start its internal recording and change gain, noise cancelling and other settings from the same computer that runs OBS, without a phone or the DJI Mimo app. The audio keeps going through the receiver's normal USB audio interface; the app only changes settings and has no network access. Tested on macOS (Apple silicon) with a DJI Mic 3; Windows and Linux builds are previews not yet tested with a receiver. Unofficial, not affiliated with DJI.
+[Mic Control](https://miccontrol.app/en/dji-mic-3-obs/?ref=awesome-streaming-tools) is a free, [open source](https://github.com/qubik89/DJIMic3) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-11-24 (The Unlicense) desktop app that controls DJI Mic 3 and Mic Mini wireless mic receivers over USB, so you can watch each mic's level, mute it, start its internal recording and change gain, noise cancelling and other settings from the same computer that runs OBS, without a phone or the DJI Mimo app. The audio keeps going through the receiver's normal USB audio interface; the app only changes settings and has no network access. Tested on macOS (Apple silicon) with a DJI Mic 3; Windows and Linux builds are previews not yet tested with a receiver. Unofficial, not affiliated with DJI.
 
 [![](https://raw.githubusercontent.com/qubik89/DJIMic3/main/docs/screenshots/main-dark.png)](https://miccontrol.app/en/dji-mic-3-obs/?ref=awesome-streaming-tools)
 
@@ -771,6 +771,11 @@ A free plan is available every month, with exports that carry a watermark. Paid 
 ## Webcam Test
 
 [Webcam Test](https://bestlatestapps.com/tools/webcam-test/) is a free browser page for checking a camera before going live: it shows a live preview, the real resolution and frame rate the camera delivers, lets you switch between cameras and mirror the view, and takes a snapshot. No sign-up or install. The site shows ads. (Disclosure: I built this tool.)
+
+## SurgeShorts
+
+[SurgeShorts](https://surgeshorts.com) reads the chat of a past YouTube live, Twitch VOD or Kick broadcast, marks where chat reacted most and ranks those moments, and plays each one on the page next to what chat said. Any part of the stream exports as a 9:16 short for TikTok, YouTube Shorts and Reels, or as a 16:9 MP4 for your editor; Twitch and Kick clip links work too. In English, Japanese, Spanish and Portuguese.
+The chat map is free with no sign-up. The free plan has a few exports a day, each ending with a 2-second SurgeShorts card; Pro is $19/month (7-day free trial) with no end card and longer clips. (Disclosure: I work on this tool.)
 
 # Twitch Extensions
 
@@ -1611,4 +1616,4 @@ $juancarlospaco
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
